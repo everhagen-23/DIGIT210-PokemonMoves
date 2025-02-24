@@ -3,9 +3,26 @@ body {
     background-image: url("support/tbg.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    cursor: url("support/tmouse"), auto;
 
     background-size: cover;
     color: black;
     font-family: verdana
+}
+li {
+    display: inline;
+    padding-left: 50px;
+}
+.navbar {
+    width: 300px;
+}
+h1 {
+    color: black;
+    font-family: "Trebuchet MS";
+    font-weight:100;
+    font-size: 40px;
+}
+p {
+        color: black;
+    font-family: "Trebuchet MS";
+    font-size: 20px;
 }
