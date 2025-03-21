@@ -8,21 +8,54 @@ body {
     color: black;
     font-family: verdana
 }
+a
+{
+    cursor: url('support/cmouse.png'), auto;
+}
 li {
     display: inline;
     padding-left: 50px;
 }
 .navbar {
     width: 300px;
+    text-decoration: none
 }
 h1 {
-    color: black;
+    padding-left: 1em;
+    color: white;
     font-family: "Trebuchet MS";
-    font-weight:100;
+    font-weight: 700;
     font-size: 40px;
 }
 p {
-        color: black;
+    color: black;
     font-family: "Trebuchet MS";
     font-size: 20px;
+}
+.blocka {
+    background: white;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-top: 0.0007em;
+    border-radius: 1em;
+}
+.pfp {
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    float: left;
+    height: 8em;
+    padding-right: 1em;
+}
+.head {
+    margin-left: auto;
+    margin-right: auto;
+    height: 70px;
+    float: left;
+    padding-right: 1em;
+}
+.bio
+{
+    padding: 3em
 }
