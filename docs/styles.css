@@ -59,8 +59,10 @@ li {
 {
     padding: 3em
 }
-et {
-    width: 300px;
+
+.et {
+    width: 500px;
     height: 500px;
         border-radius: 1em;
+        
 }
