@@ -1,9 +1,9 @@
 body {
 
+    cursor: url('support/tmouse.png'), auto;
     background-image: url("support/tbg.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    cursor: url('support/tmouse.png'), auto;
     background-size: cover;
     color: black;
     font-family: verdana
@@ -12,10 +12,7 @@ a
 {
     cursor: url('support/cmouse.png'), auto;
 }
-.navbar {
-    width: 300px;
-    text-decoration: none
-}
+
 h1 {
     padding-left: 1em;
     color: white;
