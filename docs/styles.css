@@ -12,10 +12,6 @@ a
 {
     cursor: url('support/cmouse.png'), auto;
 }
-li {
-    display: inline;
-    padding-left: 50px;
-}
 .navbar {
     width: 300px;
     text-decoration: none
@@ -31,6 +27,10 @@ p {
     color: black;
     font-family: "Trebuchet MS";
     font-size: 20px;
+}
+li {
+    display: inline;
+    padding-left: 50px;
 }
 .blocka {
     background: white;
@@ -58,4 +58,11 @@ p {
 .bio
 {
     padding: 3em
+}
+
+.et {
+    width: 500px;
+    height: 500px;
+        border-radius: 1em;
+        
 }
