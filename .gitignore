@@ -14,7 +14,6 @@ Thumbs.db
 venv/
 __pycache__/
 Lib/
-Scripts/
 etc/
 pyvenv.cfg
 share/
