@@ -1,0 +1,240 @@
+User must have consumed a Berry.
+Hits all adjacent Pokémon.
+Hits all adjacent opponents.
+Ignores Accuracy and Evasiveness.
+User recovers most the HP inflicted on opponent.
+
+May freeze opponent. Super-effective against Water types.
+Can strike through Protect/Detect.
+Traps opponent, damaging them for 4-5 turns.
+User receives recoil damage.
+May lower opponent's Special Attack.
+Lowers opponent's Special Attack.
+User recovers most of the HP inflicted on opponent.
+Hits all adjacent opponents.
+User recovers half the HP inflicted on opponent.
+May burn opponent.
+Hits 2-5 times in one turn.
+Pikachu-exclusive Z-Move. High critical hit ratio.
+Reduces damage from Physical attacks.
+User recovers half the HP inflicted on opponent.
+To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type.
+Paralyzes the opponent.
+Lowers user's Defense.
+Kommo-o exclusive Z-Move.
+Suppresses the target's ability if the target has already moved.
+Sharply lowers user's Special Attack.
+Resets all stat changes.
+Mew-exclusive Z-Move.
+Reduces damage from Special attacks.
+Tapu-exclusive Z-move. Cuts opponent's HP by 75%.
+Ultra Necrozma-exclusive Z-Move. Ignores target's ability; uses highest Attack stat.
+Lunala-exclusive Z-Move.
+User receives recoil damage.
+Ignores the target's ability.
+Halves the foe's HP.
+Primarina-exclusive Z-Move.
+Uses Attack or Special Attack stat, whichever is higher.
+Power increases when player's bond is stronger.
+Deals damage to opponent or restores HP of teammate.
+The user shoots powerful lasers using the power of a prism. The user can't move on the next turn.
+Type changes based on Oricorio's form.
+Deals more damage to opponent if hit by a Physical move.
+Heals the burns of its target.
+Cures all status problems in the party Pokémon.
+May paralyze opponent.
+Alolan Raichu-exclusive Electric type Z-Move.
+User recovers half the HP inflicted on opponent.
+May lower opponent's Special Defense.
+May lower opponent's Attack.
+May freeze opponent.
+May lower opponent's Speed.
+May lower opponent's Speed.
+May confuse opponent.
+Always inflicts 40 HP.
+User recovers half the HP inflicted on a sleeping opponent.
+May burn opponent.
+May burn opponent.
+Traps opponent, damaging them for 4-5 turns.
+May burn opponent.
+Hits Pokémon using Fly/Bounce/Sky Drop with double power.
+
+User must recharge next turn.
+May freeze opponent.
+User recovers half the HP inflicted on opponent.
+Inflicts damage equal to user's level.
+User attacks for 2-3 turns but then becomes confused.
+May confuse opponent.
+May lower opponent's Special Defense.
+Inflicts damage 50-150% of user's level.
+Charges on first turn, attacks on second. High critical hit ratio.
+May poison opponent.
+May poison opponent.
+Charges on first turn, attacks on second.
+Always inflicts 20 HP.
+Hits all adjacent Pokémon.
+Ignores Accuracy and Evasiveness.
+May paralyze opponent.
+May paralyze opponent.
+May paralyze opponent.
+May paralyze, burn or freeze opponent.
+
+High critical hit ratio.
+May raise all user's stats at once.
+May paralyze opponent.
+Damage occurs 2 turns later.
+User recovers half the HP inflicted on opponent.
+Type and power depends on user's IVs.
+Lowers opponent's Speed.
+When hit by a Special Attack, user strikes back with 2x power.
+Lowers opponent's Accuracy.
+May lower opponent's Accuracy.
+May freeze opponent.
+May lower opponent's Special Defense.
+May poison opponent.
+Can only be used if asleep. May cause flinching.
+May cause flinching. Hits Pokémon using Fly/Bounce with double power.
+Traps opponent, damaging them for 4-5 turns.
+Paralyzes opponent.
+High critical hit ratio.
+User must recharge next turn.
+Damage occurs 2 turns later.
+Stronger when the user's HP is higher.
+May cause flinching.
+User must recharge next turn.
+May burn opponent.
+User must recharge next turn.
+
+May lower opponent's Special Defense.
+Ignores Accuracy and Evasiveness.
+May lower opponent's Special Attack.
+Lowers opponent's Speed.
+May lower opponent's Accuracy.
+Sharply lowers user's Special Attack.
+Sharply lowers user's Special Attack.
+One-Hit-KO, if it hits.
+Ignores Accuracy and Evasiveness.
+May confuse opponent.
+May raise all stats of user at once.
+Power depends on how many times the user performed Stockpile.
+User attacks for 3 turns and prevents sleep.
+May confuse opponent.
+The higher the user's HP, the higher the damage caused.
+Move's power and type changes with the weather.
+May cause flinching.
+Ignores Accuracy and Evasiveness.
+Power doubles if opponent's HP is less than 50%.
+May lower opponent's Special Defense.
+May raise user's Special Attack.
+Confuses opponent.
+May cause flinching.
+May paralyze opponent.
+Sharply lowers user's Special Attack.
+
+May lower opponent's Special Defense.
+May lower opponent's Special Defense.
+May lower opponent's Special Defense.
+May lower opponent's Special Defense.
+The heavier the opponent, the stronger the attack.
+Type depends on the Arceus Plate being held.
+May burn opponent.
+Sharply lowers user's Special Attack.
+Traps opponent, damaging them for 4-5 turns.
+May lower opponent's Accuracy.
+May lower opponent's Accuracy.
+May raise all user's stats at once.
+
+User must recharge next turn.
+May lower opponent's Special Defense.
+High critical hit ratio.
+The lower the PP, the higher the power.
+User attacks first.
+The higher the opponent's HP, the higher the damage.
+Lowers target's Special Defense.
+The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.
+Lowers opponent's Attack.
+May lower opponent's Speed.
+Hits all opponents, and burns any that have had their stats boosted.
+User receives recoil damage.
+The higher the user's HP, the higher the power.
+Damage doubles if opponent is Dynamaxed.
+Deals damage and reduces opponent's PP.
+High critical hit ratio. Raises user's Speed.
+User can't move on the next turn.
+Increases power and hits all opponents on Psychic Terrain.
+May cause flinching.
+May freeze opponent.
+Inflicts double damage if the target has a status condition.
+User gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn.
+Power increases on Misty Terrain.
+Raises user's Special Attack.
+Hits all adjacent opponents.
+Power doubles on Electric Terrain.
+May burn target.
+May burn the target.
+May poison opponent. Inflicts either Special or Physical damage, whichever is better.
+Ignores moves and abilities that draw in moves. High critical hit ratio.
+Boosts user's stats in Incarnate Forme, or lowers opponent's stats in Therian Forme.
+User loses 50% of its HP.
+May confuse opponent.
+Type and power change depending on the Terrain in effect.
+Deals damage and traps opponent, damaging them for 4-5 turns.
+May paralyze target.
+
+Lowers user's Defense and Special Defense.
+Cannot be used twice in a row.
+Lowers opponent's Attack.
+Boosted even more if it's super-effective.
+Charges on first turn, attacks on second.
+May deal double damage.
+Power increases in harsh sunlight.
+Harshly lowers target’s Special Defense.
+Lowers user's Special Attack. Money is earned after the battle.
+May poison the opponent.
+Deals damage, restores HP, may burn opponent.
+Deals damage and prevents target from healing.
+Halves the opponent's HP.
+Lowers opponent's Speed each turn for 3 turns.
+Guaranteed to hit twice in a row.
+Changes type when the user has Terastallized.
+
+Strikes before a target's move.
+Raises user's Special Attack.
+Hits twice in one turn.
+Sharply lowers opponent's Special Defense.
+May burn opponent.
+Removes all of the target's stat changes.
+Power increases each turn.
+The faster the user, the stronger the attack.
+Lowers opponent's Speed.
+May raise user's Special Attack.
+Inflicts damage equal to the user's remaining HP. User faints.
+Added effects appear if combined with Grass Pledge or Water Pledge.
+May also injure nearby Pokémon.
+Always results in a critical hit.
+Power increases if Fusion Bolt is used in the same turn.
+Lowers opponent's Speed.
+Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.
+Inflicts more damage if the target has a status condition.
+May confuse opponent.
+Charges on first turn, attacks on second. May burn opponent.
+Destroys the target's held berry.
+Burns opponent.
+May lower opponent's Accuracy.
+May lower opponent's Accuracy.
+Inflicts damage based on the target's Defense, not Special Defense.
+Inflicts damage based on the target's Defense, not Special Defense.
+May put the target to sleep.
+Power increases if teammates use it in the same turn.
+May burn opponent.
+May burn opponent.
+Inflicts damage based on the target's Defense, not Special Defense.
+May poison opponent.
+Lowers opponent's Special Attack.
+Power increases when user's stats have been raised.
+Lowers opponent's Special Attack.
+Hits any Pokémon that shares a type with the user.
+Type depends on the Drive being held.
+Inflicts double damage if the target is poisoned.
+User must switch out after attacking.
+Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.

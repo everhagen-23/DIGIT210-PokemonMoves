@@ -1,0 +1,935 @@
+gen	name	category	type	description
+gen6	Aromatic Mist	Fairy	status	Raises Special Defense of an ally.
+gen6	Baby-Doll Eyes	Fairy	status	Always goes first. Lowers the target's attack.
+gen6	Belch	Poison	special	User must have consumed a Berry.
+gen6	Boomburst	Normal	special	Hits all adjacent Pokémon.
+gen6	Celebrate	Normal	status	The Pokémon congratulates you on your special day. No battle effect.
+gen6	Confide	Normal	status	Lowers opponent's Special Attack.
+gen6	Crafty Shield	Fairy	status	Protects the Pokémon from status moves.
+gen6	Dazzling Gleam	Fairy	special	Hits all adjacent opponents.
+gen6	Diamond Storm	Rock	physical	May sharply raise user's Defense.
+gen6	Disarming Voice	Fairy	special	Ignores Accuracy and Evasiveness.
+gen6	Dragon Ascent	Flying	physical	Lowers user's Defense and Special Defense.
+gen6	Draining Kiss	Fairy	special	User recovers most the HP inflicted on opponent.
+gen6	Eerie Impulse	Electric	status	Sharply lowers opponent's Special Attack.
+gen6	Electric Terrain	Electric	status	Prevents all Pokémon from falling asleep for 5 turns.
+gen6	Electrify	Electric	status	Changes the target's move to Electric type.
+gen6	Fairy Lock	Fairy	status	Prevents fleeing in the next turn.
+gen6	Fairy Wind	Fairy	special	
+gen6	Fell Stinger	Bug	physical	Drastically raises user's Attack if target is KO'd.
+gen6	Flower Shield	Fairy	status	Sharply raises Defense of all Grass-type Pokémon on the field.
+gen6	Flying Press	Fighting	physical	Deals Fighting and Flying type damage.
+gen6	Forest's Curse	Grass	status	Adds Grass type to opponent.
+gen6	Freeze-Dry	Ice	special	May freeze opponent. Super-effective against Water types.
+gen6	Geomancy	Fairy	status	Charges on first turn, sharply raises user's Sp. Attack, Sp. Defense and Speed on the second.
+gen6	Grassy Terrain	Grass	status	Restores a little HP of all Pokémon for 5 turns.
+gen6	Happy Hour	Normal	status	Doubles prize money from trainer battles.
+gen6	Hold Back	Normal	physical	Always leaves opponent with at least 1 HP.
+gen6	Hold Hands	Normal	status	Makes the user and an ally very happy.
+gen6	Hyperspace Fury	Dark	physical	Lowers user's Defense. Can strike through Protect/Detect.
+gen6	Hyperspace Hole	Psychic	special	Can strike through Protect/Detect.
+gen6	Infestation	Bug	special	Traps opponent, damaging them for 4-5 turns.
+gen6	Ion Deluge	Electric	status	Changes Normal-type moves to Electric-type.
+gen6	King's Shield	Steel	status	Protects the user and lowers opponent's Attack on contact.
+gen6	Land's Wrath	Ground	physical	
+gen6	Light of Ruin	Fairy	special	User receives recoil damage.
+gen6	Magnetic Flux	Electric	status	Raises Defense and Sp. Defense of Plus/Minus Pokémon.
+gen6	Mat Block	Fighting	status	Protects teammates from damaging moves.
+gen6	Misty Terrain	Fairy	status	Protects the field from status conditions for 5 turns.
+gen6	Moonblast	Fairy	special	May lower opponent's Special Attack.
+gen6	Mystical Fire	Fire	special	Lowers opponent's Special Attack.
+gen6	Noble Roar	Normal	status	Lowers opponent's Attack and Special Attack.
+gen6	Nuzzle	Electric	physical	Paralyzes opponent.
+gen6	Oblivion Wing	Flying	special	User recovers most of the HP inflicted on opponent.
+gen6	Origin Pulse	Water	special	Hits all adjacent opponents.
+gen6	Parabolic Charge	Electric	special	User recovers half the HP inflicted on opponent.
+gen6	Parting Shot	Dark	status	Lowers opponent's Attack and Special Attack then switches out.
+gen6	Petal Blizzard	Grass	physical	Hits all adjacent Pokémon.
+gen6	Phantom Force	Ghost	physical	Disappears on first turn, attacks on second. Can strike through Protect/Detect.
+gen6	Play Nice	Normal	status	Lowers opponent's Attack. Always hits.
+gen6	Play Rough	Fairy	physical	May lower opponent's Attack.
+gen6	Powder	Bug	status	Damages Pokémon using Fire type moves.
+gen6	Power-Up Punch	Fighting	physical	Raises Attack.
+gen6	Precipice Blades	Ground	physical	Hits all adjacent opponents.
+gen6	Rototiller	Ground	status	Raises Attack and Special Attack of Grass-types.
+gen6	Spiky Shield	Grass	status	Protects the user and inflicts damage on contact.
+gen6	Steam Eruption	Water	special	May burn opponent.
+gen6	Sticky Web	Bug	status	Lowers opponent's Speed when switching into battle.
+gen6	Thousand Arrows	Ground	physical	Makes Flying-type Pokémon vulnerable to Ground moves.
+gen6	Thousand Waves	Ground	physical	Opponent cannot flee or switch.
+gen6	Topsy-Turvy	Dark	status	Reverses stat changes of opponent.
+gen6	Trick-or-Treat	Ghost	status	Adds Ghost type to opponent.
+gen6	Venom Drench	Poison	status	Lowers poisoned opponent's Special Attack and Speed.
+gen6	Water Shuriken	Water	special	Hits 2-5 times in one turn.
+gen7	10,000,000 Volt Thunderbolt	Electric	special	Pikachu-exclusive Z-Move. High critical hit ratio.
+gen7	Accelerock	Rock	physical	User attacks first.
+gen7	Acid Downpour	Poison		Poison type Z-Move.
+gen7	All-Out Pummeling	Fighting		Fighting type Z-Move.
+gen7	Anchor Shot	Steel	physical	The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.
+gen7	Aurora Veil	Ice	status	Halves damage from Physical and Special attacks for five turns.
+gen7	Baddy Bad	Dark	special	Reduces damage from Physical attacks.
+gen7	Baneful Bunker	Poison	status	Protects the user and poisons opponent on contact.
+gen7	Beak Blast	Flying	physical	The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it's heating up its beak results in a burn.
+gen7	Black Hole Eclipse	Dark		Dark type Z-Move.
+gen7	Bloom Doom	Grass		Grass type Z-Move.
+gen7	Bouncy Bubble	Water	special	User recovers half the HP inflicted on opponent.
+gen7	Breakneck Blitz	Normal		Normal type Z-Move.
+gen7	Brutal Swing	Dark	physical	The user swings its body around violently to inflict damage on everything in its vicinity.
+gen7	Burn Up	Fire	special	To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type.
+gen7	Buzzy Buzz	Electric	special	Paralyzes the opponent.
+gen7	Catastropika	Electric	physical	Pikachu-exclusive Z-Move.
+gen7	Clanging Scales	Dragon	special	Lowers user's Defense.
+gen7	Clangorous Soulblaze	Dragon	special	Kommo-o exclusive Z-Move.
+gen7	Continental Crush	Rock		Rock type Z-Move.
+gen7	Core Enforcer	Dragon	special	Suppresses the target's ability if the target has already moved.
+gen7	Corkscrew Crash	Steel		Steel type Z-Move.
+gen7	Darkest Lariat	Dark	physical	Ignores opponent's stat changes.
+gen7	Devastating Drake	Dragon		Dragon type Z-Move.
+gen7	Double Iron Bash	Steel	physical	Hits twice in one turn; may cause flinching.
+gen7	Dragon Hammer	Dragon	physical	The user uses its body like a hammer to attack the target and inflict damage.
+gen7	Extreme Evoboost	Normal	status	Eevee-exclusive Z-Move. Sharply raises all stats.
+gen7	Fire Lash	Fire	physical	The user strikes the target with a burning lash. This also lowers the target's Defense stat.
+gen7	First Impression	Bug	physical	Although this move has great power, it only works the first turn the user is in battle.
+gen7	Fleur Cannon	Fairy	special	Sharply lowers user's Special Attack.
+gen7	Floaty Fall	Flying	physical	May cause flinching.
+gen7	Floral Healing	Fairy	status	The user restores the target's HP by up to half of its max HP. It restores more HP when the terrain is grass.
+gen7	Freezy Frost	Ice	special	Resets all stat changes.
+gen7	Gear Up	Steel	status	The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability.
+gen7	Genesis Supernova	Psychic	special	Mew-exclusive Z-Move.
+gen7	Gigavolt Havoc	Electric		Electric type Z-Move.
+gen7	Glitzy Glow	Psychic	special	Reduces damage from Special attacks.
+gen7	Guardian of Alola	Fairy	special	Tapu-exclusive Z-move. Cuts opponent's HP by 75%.
+gen7	High Horsepower	Ground	physical	The user fiercely attacks the target using its entire body.
+gen7	Hydro Vortex	Water		Water type Z-Move.
+gen7	Ice Hammer	Ice	physical	The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however.
+gen7	Inferno Overdrive	Fire		Fire type Z-Move.
+gen7	Instruct	Psychic	status	Allows an ally to use a move instead.
+gen7	Laser Focus	Normal	status	User's next attack is guaranteed to result in a critical hit.
+gen7	Leafage	Grass	physical	Strikes opponent with leaves.
+gen7	Let's Snuggle Forever	Fairy	physical	Mimikyu-exclusive Z-Move.
+gen7	Light That Burns the Sky	Psychic	special	Ultra Necrozma-exclusive Z-Move. Ignores target's ability; uses highest Attack stat.
+gen7	Liquidation	Water	physical	May lower opponent's Defense.
+gen7	Lunge	Bug	physical	The user makes a lunge at the target, attacking with full force. This also lowers the target's Attack stat.
+gen7	Malicious Moonsault	Dark	physical	Incineroar-exclusive Z-Move.
+gen7	Menacing Moonraze Maelstrom	Ghost	special	Lunala-exclusive Z-Move.
+gen7	Mind Blown	Fire	special	User receives recoil damage.
+gen7	Moongeist Beam	Ghost	special	Ignores the target's ability.
+gen7	Multi-Attack	Normal	physical	Type matches Memory item held.
+gen7	Nature's Madness	Fairy	special	Halves the foe's HP.
+gen7	Never-Ending Nightmare	Ghost		Ghost type Z-Move.
+gen7	Oceanic Operetta	Water	special	Primarina-exclusive Z-Move.
+gen7	Photon Geyser	Psychic	special	Uses Attack or Special Attack stat, whichever is higher.
+gen7	Pika Papow	Electric	special	Power increases when player's bond is stronger.
+gen7	Plasma Fists	Electric	physical	Changes Normal-type moves to Electric-type moves.
+gen7	Pollen Puff	Bug	special	Deals damage to opponent or restores HP of teammate.
+gen7	Power Trip	Dark	physical	The user boasts its strength and attacks the target. The more the user's stats are raised, the greater the move's power.
+gen7	Prismatic Laser	Psychic	special	The user shoots powerful lasers using the power of a prism. The user can't move on the next turn.
+gen7	Psychic Fangs	Psychic	physical	The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.
+gen7	Psychic Terrain	Psychic	status	Prevents priority moves from being used for 5 turns.
+gen7	Pulverizing Pancake	Normal	physical	Snorlax-exclusive Normal type Z-Move.
+gen7	Purify	Poison	status	The user heals the target's status condition. If the move succeeds, it also restores the user's own HP.
+gen7	Revelation Dance	Normal	special	Type changes based on Oricorio's form.
+gen7	Sappy Seed	Grass	physical	Drains HP from opponent each turn.
+gen7	Savage Spin-Out	Bug		Bug type Z-Move.
+gen7	Searing Sunraze Smash	Steel	physical	Solgaleo-exclusive Z-Move.
+gen7	Shadow Bone	Ghost	physical	May lower opponent's Defense.
+gen7	Shattered Psyche	Psychic		Psychic type Z-Move.
+gen7	Shell Trap	Fire	special	Deals more damage to opponent if hit by a Physical move.
+gen7	Shore Up	Ground	status	The user regains up to half of its max HP. It restores more HP in a sandstorm.
+gen7	Sinister Arrow Raid	Ghost	physical	Decidueye-exclusive Z-Move.
+gen7	Sizzly Slide	Fire	physical	Burns the opponent.
+gen7	Smart Strike	Steel	physical	The user stabs the target with a sharp horn. This attack never misses.
+gen7	Solar Blade	Grass	physical	Charges on first turn, attacks on second.
+gen7	Soul-Stealing 7-Star Strike	Ghost	physical	Marshadow-exclusive Z-Move.
+gen7	Sparkling Aria	Water	special	Heals the burns of its target.
+gen7	Sparkly Swirl	Fairy	special	Cures all status problems in the party Pokémon.
+gen7	Spectral Thief	Ghost	physical	The user hides in the target's shadow, steals the target's stat boosts, and then attacks.
+gen7	Speed Swap	Psychic	status	The user exchanges Speed stats with the target.
+gen7	Spirit Shackle	Ghost	physical	Prevents the opponent from switching out.
+gen7	Splintered Stormshards	Rock	physical	Lycanroc-exclusive Z-Move.
+gen7	Splishy Splash	Water	special	May paralyze opponent.
+gen7	Spotlight	Normal	status	The user shines a spotlight on the target so that only the target will be attacked during the turn.
+gen7	Stoked Sparksurfer	Electric	special	Alolan Raichu-exclusive Electric type Z-Move.
+gen7	Stomping Tantrum	Ground	physical	Driven by frustration, the user attacks the target. If the user's previous move has failed, the power of this move doubles.
+gen7	Strength Sap	Grass	status	The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat.
+gen7	Subzero Slammer	Ice		Ice type Z-Move.
+gen7	Sunsteel Strike	Steel	physical	Ignores the target's ability.
+gen7	Supersonic Skystrike	Flying		Flying type Z-Move.
+gen7	Tearful Look	Normal	status	The user gets teary eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats.
+gen7	Tectonic Rage	Ground		Ground type Z-Move.
+gen7	Throat Chop	Dark	physical	Prevents use of sound moves for two turns.
+gen7	Toxic Thread	Poison	status	Poisons opponent and lowers its Speed.
+gen7	Trop Kick	Grass	physical	Lowers opponent's Attack.
+gen7	Twinkle Tackle	Fairy		Fairy type Z-Move.
+gen7	Veevee Volley	Normal	physical	Power increases when player's bond is stronger.
+gen7	Zing Zap	Electric	physical	May cause flinching.
+gen7	Zippy Zap	Electric	physical	Always results in a critical hit.
+gen1	Absorb	Grass	special	User recovers half the HP inflicted on opponent.
+gen1	Acid	Poison	special	May lower opponent's Special Defense.
+gen1	Acid Armor	Poison	status	Sharply raises user's Defense.
+gen1	Agility	Psychic	status	Sharply raises user's Speed.
+gen1	Amnesia	Psychic	status	Sharply raises user's Special Defense.
+gen1	Aurora Beam	Ice	special	May lower opponent's Attack.
+gen1	Barrage	Normal	physical	Hits 2-5 times in one turn.
+gen1	Barrier	Psychic	status	Sharply raises user's Defense.
+gen1	Bide	Normal	physical	User takes damage for two turns then strikes back double.
+gen1	Bind	Normal	physical	Traps opponent, damaging them for 4-5 turns.
+gen1	Bite	Dark	physical	May cause flinching.
+gen1	Blizzard	Ice	special	May freeze opponent.
+gen1	Body Slam	Normal	physical	May paralyze opponent.
+gen1	Bone Club	Ground	physical	May cause flinching.
+gen1	Bonemerang	Ground	physical	Hits twice in one turn.
+gen1	Bubble	Water	special	May lower opponent's Speed.
+gen1	Bubble Beam	Water	special	May lower opponent's Speed.
+gen1	Clamp	Water	physical	Traps opponent, damaging them for 4-5 turns.
+gen1	Comet Punch	Normal	physical	Hits 2-5 times in one turn.
+gen1	Confuse Ray	Ghost	status	Confuses opponent.
+gen1	Confusion	Psychic	special	May confuse opponent.
+gen1	Constrict	Normal	physical	May lower opponent's Speed by one stage.
+gen1	Conversion	Normal	status	Changes user's type to that of its first move.
+gen1	Counter	Fighting	physical	When hit by a Physical Attack, user strikes back with 2x power.
+gen1	Crabhammer	Water	physical	High critical hit ratio.
+gen1	Cut	Normal	physical	
+gen1	Defense Curl	Normal	status	Raises user's Defense.
+gen1	Dig	Ground	physical	Digs underground on first turn, attacks on second. Can also escape from caves.
+gen1	Disable	Normal	status	Opponent can't use its last attack for a few turns.
+gen1	Dizzy Punch	Normal	physical	May confuse opponent.
+gen1	Double Kick	Fighting	physical	Hits twice in one turn.
+gen1	Double Slap	Normal	physical	Hits 2-5 times in one turn.
+gen1	Double Team	Normal	status	Raises user's Evasiveness.
+gen1	Double-Edge	Normal	physical	User receives recoil damage.
+gen1	Dragon Rage	Dragon	special	Always inflicts 40 HP.
+gen1	Dream Eater	Psychic	special	User recovers half the HP inflicted on a sleeping opponent.
+gen1	Drill Peck	Flying	physical	
+gen1	Earthquake	Ground	physical	Power is doubled if opponent is underground from using Dig.
+gen1	Egg Bomb	Normal	physical	
+gen1	Ember	Fire	special	May burn opponent.
+gen1	Explosion	Normal	physical	User faints.
+gen1	Fire Blast	Fire	special	May burn opponent.
+gen1	Fire Punch	Fire	physical	May burn opponent.
+gen1	Fire Spin	Fire	special	Traps opponent, damaging them for 4-5 turns.
+gen1	Fissure	Ground	physical	One-Hit-KO, if it hits.
+gen1	Flamethrower	Fire	special	May burn opponent.
+gen1	Flash	Normal	status	Lowers opponent's Accuracy.
+gen1	Fly	Flying	physical	Flies up on first turn, attacks on second turn.
+gen1	Focus Energy	Normal	status	Increases critical hit ratio.
+gen1	Fury Attack	Normal	physical	Hits 2-5 times in one turn.
+gen1	Fury Swipes	Normal	physical	Hits 2-5 times in one turn.
+gen1	Glare	Normal	status	Paralyzes opponent.
+gen1	Growl	Normal	status	Lowers opponent's Attack.
+gen1	Growth	Normal	status	Raises user's Attack and Special Attack.
+gen1	Guillotine	Normal	physical	One-Hit-KO, if it hits.
+gen1	Gust	Flying	special	Hits Pokémon using Fly/Bounce/Sky Drop with double power.
+gen1	Harden	Normal	status	Raises user's Defense.
+gen1	Haze	Ice	status	Resets all stat changes.
+gen1	Headbutt	Normal	physical	May cause flinching.
+gen1	High Jump Kick	Fighting	physical	If it misses, the user loses half their HP.
+gen1	Horn Attack	Normal	physical	
+gen1	Horn Drill	Normal	physical	One-Hit-KO, if it hits.
+gen1	Hydro Pump	Water	special	
+gen1	Hyper Beam	Normal	special	User must recharge next turn.
+gen1	Hyper Fang	Normal	physical	May cause flinching.
+gen1	Hypnosis	Psychic	status	Puts opponent to sleep.
+gen1	Ice Beam	Ice	special	May freeze opponent.
+gen1	Ice Punch	Ice	physical	May freeze opponent.
+gen1	Jump Kick	Fighting	physical	If it misses, the user loses half their HP.
+gen1	Karate Chop	Fighting	physical	High critical hit ratio.
+gen1	Kinesis	Psychic	status	Lowers opponent's Accuracy.
+gen1	Leech Life	Bug	physical	User recovers half the HP inflicted on opponent.
+gen1	Leech Seed	Grass	status	Drains HP from opponent each turn.
+gen1	Leer	Normal	status	Lowers opponent's Defense.
+gen1	Lick	Ghost	physical	May paralyze opponent.
+gen1	Light Screen	Psychic	status	Halves damage from Special attacks for 5 turns.
+gen1	Lovely Kiss	Normal	status	Puts opponent to sleep.
+gen1	Low Kick	Fighting	physical	The heavier the opponent, the stronger the attack.
+gen1	Meditate	Psychic	status	Raises user's Attack.
+gen1	Mega Drain	Grass	special	User recovers half the HP inflicted on opponent.
+gen1	Mega Kick	Normal	physical	
+gen1	Mega Punch	Normal	physical	
+gen1	Metronome	Normal	status	User performs almost any move in the game at random.
+gen1	Mimic	Normal	status	Copies the opponent's last move.
+gen1	Minimize	Normal	status	Sharply raises user's Evasiveness.
+gen1	Mirror Move	Flying	status	User performs the opponent's last move.
+gen1	Mist	Ice	status	User's stats cannot be changed for a period of time.
+gen1	Night Shade	Ghost	special	Inflicts damage equal to user's level.
+gen1	Pay Day	Normal	physical	Money is earned after the battle.
+gen1	Peck	Flying	physical	
+gen1	Petal Dance	Grass	special	User attacks for 2-3 turns but then becomes confused.
+gen1	Pin Missile	Bug	physical	Hits 2-5 times in one turn.
+gen1	Poison Gas	Poison	status	Poisons opponent.
+gen1	Poison Powder	Poison	status	Poisons opponent.
+gen1	Poison Sting	Poison	physical	May poison the opponent.
+gen1	Pound	Normal	physical	
+gen1	Psybeam	Psychic	special	May confuse opponent.
+gen1	Psychic	Psychic	special	May lower opponent's Special Defense.
+gen1	Psywave	Psychic	special	Inflicts damage 50-150% of user's level.
+gen1	Quick Attack	Normal	physical	User attacks first.
+gen1	Rage	Normal	physical	Raises user's Attack when hit.
+gen1	Razor Leaf	Grass	physical	High critical hit ratio.
+gen1	Razor Wind	Normal	special	Charges on first turn, attacks on second. High critical hit ratio.
+gen1	Recover	Normal	status	User recovers half its max HP.
+gen1	Reflect	Psychic	status	Halves damage from Physical attacks for 5 turns.
+gen1	Rest	Psychic	status	User sleeps for 2 turns, but user is fully healed.
+gen1	Roar	Normal	status	In battles, the opponent switches. In the wild, the Pokémon runs.
+gen1	Rock Slide	Rock	physical	May cause flinching.
+gen1	Rock Throw	Rock	physical	
+gen1	Rolling Kick	Fighting	physical	May cause flinching.
+gen1	Sand Attack	Ground	status	Lowers opponent's Accuracy.
+gen1	Scratch	Normal	physical	
+gen1	Screech	Normal	status	Sharply lowers opponent's Defense.
+gen1	Seismic Toss	Fighting	physical	Inflicts damage equal to user's level.
+gen1	Self-Destruct	Normal	physical	User faints.
+gen1	Sharpen	Normal	status	Raises user's Attack.
+gen1	Sing	Normal	status	Puts opponent to sleep.
+gen1	Skull Bash	Normal	physical	Raises Defense on first turn, attacks on second.
+gen1	Sky Attack	Flying	physical	Charges on first turn, attacks on second. May cause flinching. High critical hit ratio.
+gen1	Slam	Normal	physical	
+gen1	Slash	Normal	physical	High critical hit ratio.
+gen1	Sleep Powder	Grass	status	Puts opponent to sleep.
+gen1	Sludge	Poison	special	May poison opponent.
+gen1	Smog	Poison	special	May poison opponent.
+gen1	Smokescreen	Normal	status	Lowers opponent's Accuracy.
+gen1	Soft-Boiled	Normal	status	User recovers half its max HP.
+gen1	Solar Beam	Grass	special	Charges on first turn, attacks on second.
+gen1	Sonic Boom	Normal	special	Always inflicts 20 HP.
+gen1	Spike Cannon	Normal	physical	Hits 2-5 times in one turn.
+gen1	Splash	Normal	status	Doesn't do ANYTHING.
+gen1	Spore	Grass	status	Puts opponent to sleep.
+gen1	Stomp	Normal	physical	May cause flinching.
+gen1	Strength	Normal	physical	
+gen1	String Shot	Bug	status	Sharply lowers opponent's Speed.
+gen1	Struggle	Normal	physical	Only usable when all PP are gone. Hurts the user.
+gen1	Stun Spore	Grass	status	Paralyzes opponent.
+gen1	Submission	Fighting	physical	User receives recoil damage.
+gen1	Substitute	Normal	status	Uses HP to creates a decoy that takes hits.
+gen1	Super Fang	Normal	physical	Always takes off half of the opponent's HP.
+gen1	Supersonic	Normal	status	Confuses opponent.
+gen1	Surf	Water	special	Hits all adjacent Pokémon.
+gen1	Swift	Normal	special	Ignores Accuracy and Evasiveness.
+gen1	Swords Dance	Normal	status	Sharply raises user's Attack.
+gen1	Tackle	Normal	physical	
+gen1	Tail Whip	Normal	status	Lowers opponent's Defense.
+gen1	Take Down	Normal	physical	User receives recoil damage.
+gen1	Teleport	Psychic	status	Allows user to flee wild battles; also warps player to last PokéCenter.
+gen1	Thrash	Normal	physical	User attacks for 2-3 turns but then becomes confused.
+gen1	Thunder	Electric	special	May paralyze opponent.
+gen1	Thunder Punch	Electric	physical	May paralyze opponent.
+gen1	Thunder Shock	Electric	special	May paralyze opponent.
+gen1	Thunder Wave	Electric	status	Paralyzes opponent.
+gen1	Thunderbolt	Electric	special	May paralyze opponent.
+gen1	Toxic	Poison	status	Badly poisons opponent.
+gen1	Transform	Normal	status	User takes on the form and attacks of the opponent.
+gen1	Tri Attack	Normal	special	May paralyze, burn or freeze opponent.
+gen1	Twineedle	Bug	physical	Hits twice in one turn. May poison opponent.
+gen1	Vine Whip	Grass	physical	
+gen1	Vise Grip	Normal	physical	
+gen1	Water Gun	Water	special	
+gen1	Waterfall	Water	physical	May cause flinching.
+gen1	Whirlwind	Normal	status	In battles, the opponent switches. In the wild, the Pokémon runs.
+gen1	Wing Attack	Flying	physical	
+gen1	Withdraw	Water	status	Raises user's Defense.
+gen1	Wrap	Normal	physical	Traps opponent, damaging them for 4-5 turns.
+gen2	Aeroblast	Flying	special	High critical hit ratio.
+gen2	Ancient Power	Rock	special	May raise all user's stats at once.
+gen2	Attract	Normal	status	If opponent is the opposite gender, it's less likely to attack.
+gen2	Baton Pass	Normal	status	User switches out and gives stat changes to the incoming Pokémon.
+gen2	Beat Up	Dark	physical	Each Pokémon in user's party attacks.
+gen2	Belly Drum	Normal	status	User loses 50% of its max HP, but Attack raises to maximum.
+gen2	Bone Rush	Ground	physical	Hits 2-5 times in one turn.
+gen2	Charm	Fairy	status	Sharply lowers opponent's Attack.
+gen2	Conversion 2	Normal	status	User changes type to become resistant to opponent's last move.
+gen2	Cotton Spore	Grass	status	Sharply lowers opponent's Speed.
+gen2	Cross Chop	Fighting	physical	High critical hit ratio.
+gen2	Crunch	Dark	physical	May lower opponent's Defense.
+gen2	Curse	Ghost	status	Ghosts lose 50% of max HP and curse the opponent; Non-Ghosts raise Attack, Defense and lower Speed.
+gen2	Destiny Bond	Ghost	status	If the user faints, the opponent also faints.
+gen2	Detect	Fighting	status	Protects the user, but may fail if used consecutively.
+gen2	Dragon Breath	Dragon	special	May paralyze opponent.
+gen2	Dynamic Punch	Fighting	physical	Confuses opponent.
+gen2	Encore	Normal	status	Forces opponent to keep using its last move for 3 turns.
+gen2	Endure	Normal	status	Always left with at least 1 HP, but may fail if used consecutively.
+gen2	Extreme Speed	Normal	physical	User attacks first.
+gen2	False Swipe	Normal	physical	Always leaves opponent with at least 1 HP.
+gen2	Feint Attack	Dark	physical	Ignores Accuracy and Evasiveness.
+gen2	Flail	Normal	physical	The lower the user's HP, the higher the power.
+gen2	Flame Wheel	Fire	physical	May burn opponent.
+gen2	Foresight	Normal	status	Resets opponent's Evasiveness, and allows Normal- and Fighting-type attacks to hit Ghosts.
+gen2	Frustration	Normal	physical	Power decreases with higher Friendship.
+gen2	Fury Cutter	Bug	physical	Power increases each turn.
+gen2	Future Sight	Psychic	special	Damage occurs 2 turns later.
+gen2	Giga Drain	Grass	special	User recovers half the HP inflicted on opponent.
+gen2	Heal Bell	Normal	status	Heals the user's party's status conditions.
+gen2	Hidden Power	Normal	special	Type and power depends on user's IVs.
+gen2	Icy Wind	Ice	special	Lowers opponent's Speed.
+gen2	Iron Tail	Steel	physical	May lower opponent's Defense.
+gen2	Lock-On	Normal	status	User's next attack is guaranteed to hit.
+gen2	Mach Punch	Fighting	physical	User attacks first.
+gen2	Magnitude	Ground	physical	Hits with random power.
+gen2	Mean Look	Normal	status	Opponent cannot flee or switch.
+gen2	Megahorn	Bug	physical	
+gen2	Metal Claw	Steel	physical	May raise user's Attack.
+gen2	Milk Drink	Normal	status	User recovers half its max HP.
+gen2	Mind Reader	Normal	status	User's next attack is guaranteed to hit.
+gen2	Mirror Coat	Psychic	special	When hit by a Special Attack, user strikes back with 2x power.
+gen2	Moonlight	Fairy	status	User recovers HP. Amount varies with the weather.
+gen2	Morning Sun	Normal	status	User recovers HP. Amount varies with the weather.
+gen2	Mud-Slap	Ground	special	Lowers opponent's Accuracy.
+gen2	Nightmare	Ghost	status	The sleeping opponent loses 25% of its max HP each turn.
+gen2	Octazooka	Water	special	May lower opponent's Accuracy.
+gen2	Outrage	Dragon	physical	User attacks for 2-3 turns but then becomes confused.
+gen2	Pain Split	Normal	status	The user's and opponent's HP becomes the average of both.
+gen2	Perish Song	Normal	status	Any Pokémon in play when this attack is used faints in 3 turns.
+gen2	Powder Snow	Ice	special	May freeze opponent.
+gen2	Present	Normal	physical	Either deals damage or heals.
+gen2	Protect	Normal	status	Protects the user, but may fail if used consecutively.
+gen2	Psych Up	Normal	status	Copies the opponent's stat changes.
+gen2	Pursuit	Dark	physical	Double power if the opponent is switching out.
+gen2	Rain Dance	Water	status	Makes it rain for 5 turns.
+gen2	Rapid Spin	Normal	physical	Raises user's Speed and removes entry hazards and trap move effects.
+gen2	Return	Normal	physical	Power increases with higher Friendship.
+gen2	Reversal	Fighting	physical	The lower the user's HP, the higher the power.
+gen2	Rock Smash	Fighting	physical	May lower opponent's Defense.
+gen2	Rollout	Rock	physical	Doubles in power each turn for 5 turns.
+gen2	Sacred Fire	Fire	physical	May burn opponent.
+gen2	Safeguard	Normal	status	The user's party is protected from status conditions.
+gen2	Sandstorm	Rock	status	Creates a sandstorm for 5 turns.
+gen2	Scary Face	Normal	status	Sharply lowers opponent's Speed.
+gen2	Shadow Ball	Ghost	special	May lower opponent's Special Defense.
+gen2	Sketch	Normal	status	Permanently copies the opponent's last move.
+gen2	Sleep Talk	Normal	status	User performs one of its own moves while sleeping.
+gen2	Sludge Bomb	Poison	special	May poison opponent.
+gen2	Snore	Normal	special	Can only be used if asleep. May cause flinching.
+gen2	Spark	Electric	physical	May paralyze opponent.
+gen2	Spider Web	Bug	status	Opponent cannot escape/switch.
+gen2	Spikes	Ground	status	Damages opponents switching into battle.
+gen2	Spite	Ghost	status	The opponent's last move loses 2-5 PP.
+gen2	Steel Wing	Steel	physical	May raise user's Defense.
+gen2	Sunny Day	Fire	status	Makes it sunny for 5 turns.
+gen2	Swagger	Normal	status	Confuses opponent, but sharply raises its Attack.
+gen2	Sweet Kiss	Fairy	status	Confuses opponent.
+gen2	Sweet Scent	Normal	status	Lowers opponent's Evasiveness.
+gen2	Synthesis	Grass	status	User recovers HP. Amount varies with the weather.
+gen2	Thief	Dark	physical	Also steals opponent's held item.
+gen2	Triple Kick	Fighting	physical	Hits thrice in one turn at increasing power.
+gen2	Twister	Dragon	special	May cause flinching. Hits Pokémon using Fly/Bounce with double power.
+gen2	Vital Throw	Fighting	physical	User attacks last, but ignores Accuracy and Evasiveness.
+gen2	Whirlpool	Water	special	Traps opponent, damaging them for 4-5 turns.
+gen2	Zap Cannon	Electric	special	Paralyzes opponent.
+gen3	Aerial Ace	Flying	physical	Ignores Accuracy and Evasiveness.
+gen3	Air Cutter	Flying	special	High critical hit ratio.
+gen3	Arm Thrust	Fighting	physical	Hits 2-5 times in one turn.
+gen3	Aromatherapy	Grass	status	Cures all status problems in your party.
+gen3	Assist	Normal	status	User performs a move known by its allies at random.
+gen3	Astonish	Ghost	physical	May cause flinching.
+gen3	Blast Burn	Fire	special	User must recharge next turn.
+gen3	Blaze Kick	Fire	physical	High critical hit ratio. May burn opponent.
+gen3	Block	Normal	status	Opponent cannot flee or switch.
+gen3	Bounce	Flying	physical	Springs up on first turn, attacks on second. May paralyze opponent.
+gen3	Brick Break	Fighting	physical	Breaks through Reflect and Light Screen barriers.
+gen3	Bulk Up	Fighting	status	Raises user's Attack and Defense.
+gen3	Bullet Seed	Grass	physical	Hits 2-5 times in one turn.
+gen3	Calm Mind	Psychic	status	Raises user's Special Attack and Special Defense.
+gen3	Camouflage	Normal	status	Changes user's type according to the location.
+gen3	Charge	Electric	status	Raises user's Special Defense and next Electric move's power increases.
+gen3	Cosmic Power	Psychic	status	Raises user's Defense and Special Defense.
+gen3	Covet	Normal	physical	Opponent's item is stolen by the user.
+gen3	Crush Claw	Normal	physical	May lower opponent's Defense.
+gen3	Dive	Water	physical	Dives underwater on first turn, attacks on second turn.
+gen3	Doom Desire	Steel	special	Damage occurs 2 turns later.
+gen3	Dragon Claw	Dragon	physical	
+gen3	Dragon Dance	Dragon	status	Raises user's Attack and Speed.
+gen3	Endeavor	Normal	physical	Reduces opponent's HP to same as user's.
+gen3	Eruption	Fire	special	Stronger when the user's HP is higher.
+gen3	Extrasensory	Psychic	special	May cause flinching.
+gen3	Facade	Normal	physical	Power doubles if user is burned, poisoned, or paralyzed.
+gen3	Fake Out	Normal	physical	User attacks first, foe flinches. Only usable on first turn.
+gen3	Fake Tears	Dark	status	Sharply lowers opponent's Special Defense.
+gen3	Feather Dance	Flying	status	Sharply lowers opponent's Attack.
+gen3	Flatter	Dark	status	Confuses opponent, but raises its Special Attack.
+gen3	Focus Punch	Fighting	physical	If the user is hit before attacking, it flinches instead.
+gen3	Follow Me	Normal	status	In Double Battle, the user takes all the attacks.
+gen3	Frenzy Plant	Grass	special	User must recharge next turn.
+gen3	Grass Whistle	Grass	status	Puts opponent to sleep.
+gen3	Grudge	Ghost	status	If the users faints after using this move, the PP for the opponent's last move is depleted.
+gen3	Hail	Ice	status	Non-Ice types are damaged for 5 turns.
+gen3	Heat Wave	Fire	special	May burn opponent.
+gen3	Helping Hand	Normal	status	In Double Battles, boosts the power of the partner's move.
+gen3	Howl	Normal	status	Raises Attack of allies.
+gen3	Hydro Cannon	Water	special	User must recharge next turn.
+gen3	Hyper Voice	Normal	special	
+gen3	Ice Ball	Ice	physical	Doubles in power each turn for 5 turns.
+gen3	Icicle Spear	Ice	physical	Hits 2-5 times in one turn.
+gen3	Imprison	Psychic	status	Opponent is unable to use moves that the user also knows.
+gen3	Ingrain	Grass	status	User restores HP each turn. User cannot escape/switch.
+gen3	Iron Defense	Steel	status	Sharply raises user's Defense.
+gen3	Knock Off	Dark	physical	Removes opponent's held item for the rest of the battle.
+gen3	Leaf Blade	Grass	physical	High critical hit ratio.
+gen3	Luster Purge	Psychic	special	May lower opponent's Special Defense.
+gen3	Magic Coat	Psychic	status	Reflects moves that cause status conditions back to the attacker.
+gen3	Magical Leaf	Grass	special	Ignores Accuracy and Evasiveness.
+gen3	Memento	Dark	status	User faints, sharply lowers opponent's Attack and Special Attack.
+gen3	Metal Sound	Steel	status	Sharply lowers opponent's Special Defense.
+gen3	Meteor Mash	Steel	physical	May raise user's Attack.
+gen3	Mist Ball	Psychic	special	May lower opponent's Special Attack.
+gen3	Mud Shot	Ground	special	Lowers opponent's Speed.
+gen3	Mud Sport	Ground	status	Weakens the power of Electric-type moves.
+gen3	Muddy Water	Water	special	May lower opponent's Accuracy.
+gen3	Nature Power	Normal	status	Uses a certain move based on the current terrain.
+gen3	Needle Arm	Grass	physical	May cause flinching.
+gen3	Odor Sleuth	Normal	status	Resets opponent's Evasiveness, and allows Normal- and Fighting-type attacks to hit Ghosts.
+gen3	Overheat	Fire	special	Sharply lowers user's Special Attack.
+gen3	Poison Fang	Poison	physical	May badly poison opponent.
+gen3	Poison Tail	Poison	physical	High critical hit ratio. May poison opponent.
+gen3	Psycho Boost	Psychic	special	Sharply lowers user's Special Attack.
+gen3	Recycle	Normal	status	User's used hold item is restored.
+gen3	Refresh	Normal	status	Cures paralysis, poison, and burns.
+gen3	Revenge	Fighting	physical	Power increases if user was hit first.
+gen3	Rock Blast	Rock	physical	Hits 2-5 times in one turn.
+gen3	Rock Tomb	Rock	physical	Lowers opponent's Speed.
+gen3	Role Play	Psychic	status	User copies the opponent's Ability.
+gen3	Sand Tomb	Ground	physical	Traps opponent, damaging them for 4-5 turns.
+gen3	Secret Power	Normal	physical	Effects of the attack vary with the location.
+gen3	Shadow Punch	Ghost	physical	Ignores Accuracy and Evasiveness.
+gen3	Sheer Cold	Ice	special	One-Hit-KO, if it hits.
+gen3	Shock Wave	Electric	special	Ignores Accuracy and Evasiveness.
+gen3	Signal Beam	Bug	special	May confuse opponent.
+gen3	Silver Wind	Bug	special	May raise all stats of user at once.
+gen3	Skill Swap	Psychic	status	The user swaps Abilities with the opponent.
+gen3	Sky Uppercut	Fighting	physical	Hits the opponent, even during Fly.
+gen3	Slack Off	Normal	status	User recovers half its max HP.
+gen3	Smelling Salts	Normal	physical	Power doubles if opponent is paralyzed, but cures it.
+gen3	Snatch	Dark	status	Steals the effects of the opponent's next move.
+gen3	Spit Up	Normal	special	Power depends on how many times the user performed Stockpile.
+gen3	Stockpile	Normal	status	Stores energy for use with Spit Up and Swallow.
+gen3	Superpower	Fighting	physical	Lowers user's Attack and Defense.
+gen3	Swallow	Normal	status	The more times the user has performed Stockpile, the more HP is recovered.
+gen3	Tail Glow	Bug	status	Drastically raises user's Special Attack.
+gen3	Taunt	Dark	status	Opponent can only use moves that attack.
+gen3	Teeter Dance	Normal	status	Confuses all Pokémon.
+gen3	Tickle	Normal	status	Lowers opponent's Attack and Defense.
+gen3	Torment	Dark	status	Opponent cannot use the same move in a row.
+gen3	Trick	Psychic	status	Swaps held items with the opponent.
+gen3	Uproar	Normal	special	User attacks for 3 turns and prevents sleep.
+gen3	Volt Tackle	Electric	physical	User receives recoil damage. May paralyze opponent.
+gen3	Water Pulse	Water	special	May confuse opponent.
+gen3	Water Sport	Water	status	Weakens the power of Fire-type moves.
+gen3	Water Spout	Water	special	The higher the user's HP, the higher the damage caused.
+gen3	Weather Ball	Normal	special	Move's power and type changes with the weather.
+gen3	Will-O-Wisp	Fire	status	Burns opponent.
+gen3	Wish	Normal	status	The user recovers HP in the following turn.
+gen3	Yawn	Normal	status	Puts opponent to sleep in the next turn.
+gen4	Acupressure	Normal	status	Sharply raises a random stat.
+gen4	Air Slash	Flying	special	May cause flinching.
+gen4	Aqua Jet	Water	physical	User attacks first.
+gen4	Aqua Ring	Water	status	Restores a little HP each turn.
+gen4	Aqua Tail	Water	physical	
+gen4	Assurance	Dark	physical	Power doubles if opponent already took damage in the same turn.
+gen4	Attack Order	Bug	physical	High critical hit ratio.
+gen4	Aura Sphere	Fighting	special	Ignores Accuracy and Evasiveness.
+gen4	Avalanche	Ice	physical	Power doubles if user took damage first.
+gen4	Brave Bird	Flying	physical	User receives recoil damage.
+gen4	Brine	Water	special	Power doubles if opponent's HP is less than 50%.
+gen4	Bug Bite	Bug	physical	Receives the effect from the opponent's held berry.
+gen4	Bug Buzz	Bug	special	May lower opponent's Special Defense.
+gen4	Bullet Punch	Steel	physical	User attacks first.
+gen4	Captivate	Normal	status	Sharply lowers opponent's Special Attack if opposite gender.
+gen4	Charge Beam	Electric	special	May raise user's Special Attack.
+gen4	Chatter	Flying	special	Confuses opponent.
+gen4	Close Combat	Fighting	physical	Lowers user's Defense and Special Defense.
+gen4	Copycat	Normal	status	Copies opponent's last move.
+gen4	Cross Poison	Poison	physical	High critical hit ratio. May poison opponent.
+gen4	Crush Grip	Normal	physical	More powerful when opponent has higher HP.
+gen4	Dark Pulse	Dark	special	May cause flinching.
+gen4	Dark Void	Dark	status	Puts all adjacent opponents to sleep.
+gen4	Defend Order	Bug	status	Raises user's Defense and Special Defense.
+gen4	Defog	Flying	status	Lowers opponent's Evasiveness and clears fog.
+gen4	Discharge	Electric	special	May paralyze opponent.
+gen4	Double Hit	Normal	physical	Hits twice in one turn.
+gen4	Draco Meteor	Dragon	special	Sharply lowers user's Special Attack.
+gen4	Dragon Pulse	Dragon	special	
+gen4	Dragon Rush	Dragon	physical	May cause flinching.
+gen4	Drain Punch	Fighting	physical	User recovers half the HP inflicted on opponent.
+gen4	Earth Power	Ground	special	May lower opponent's Special Defense.
+gen4	Embargo	Dark	status	Opponent cannot use items.
+gen4	Energy Ball	Grass	special	May lower opponent's Special Defense.
+gen4	Feint	Normal	physical	Only hits if opponent uses Protect or Detect in the same turn.
+gen4	Fire Fang	Fire	physical	May cause flinching and/or burn opponent.
+gen4	Flare Blitz	Fire	physical	User receives recoil damage. May burn opponent.
+gen4	Flash Cannon	Steel	special	May lower opponent's Special Defense.
+gen4	Fling	Dark	physical	Power depends on held item.
+gen4	Focus Blast	Fighting	special	May lower opponent's Special Defense.
+gen4	Force Palm	Fighting	physical	May paralyze opponent.
+gen4	Gastro Acid	Poison	status	Cancels out the effect of the opponent's Ability.
+gen4	Giga Impact	Normal	physical	User must recharge next turn.
+gen4	Grass Knot	Grass	special	The heavier the opponent, the stronger the attack.
+gen4	Gravity	Psychic	status	Prevents moves like Fly and Bounce and the Ability Levitate for 5 turns.
+gen4	Guard Swap	Psychic	status	User and opponent swap Defense and Special Defense.
+gen4	Gunk Shot	Poison	physical	May poison opponent.
+gen4	Gyro Ball	Steel	physical	The slower the user, the stronger the attack.
+gen4	Hammer Arm	Fighting	physical	Lowers user's Speed.
+gen4	Head Smash	Rock	physical	User receives recoil damage.
+gen4	Heal Block	Psychic	status	Prevents the opponent from restoring HP for 5 turns.
+gen4	Heal Order	Bug	status	User recovers half its max HP.
+gen4	Healing Wish	Psychic	status	The user faints and the next Pokémon released is fully healed.
+gen4	Heart Swap	Psychic	status	Stat changes are swapped with the opponent.
+gen4	Ice Fang	Ice	physical	May cause flinching and/or freeze opponent.
+gen4	Ice Shard	Ice	physical	User attacks first.
+gen4	Iron Head	Steel	physical	May cause flinching.
+gen4	Judgment	Normal	special	Type depends on the Arceus Plate being held.
+gen4	Last Resort	Normal	physical	Can only be used after all other moves are used.
+gen4	Lava Plume	Fire	special	May burn opponent.
+gen4	Leaf Storm	Grass	special	Sharply lowers user's Special Attack.
+gen4	Lucky Chant	Normal	status	Opponent cannot land critical hits for 5 turns.
+gen4	Lunar Dance	Psychic	status	The user faints but the next Pokémon released is fully healed.
+gen4	Magma Storm	Fire	special	Traps opponent, damaging them for 4-5 turns.
+gen4	Magnet Bomb	Steel	physical	Ignores Accuracy and Evasiveness.
+gen4	Magnet Rise	Electric	status	User becomes immune to Ground-type moves for 5 turns.
+gen4	Me First	Normal	status	User copies the opponent's attack with 1.5× power.
+gen4	Metal Burst	Steel	physical	Deals damage equal to 1.5x opponent's attack.
+gen4	Miracle Eye	Psychic	status	Resets opponent's Evasiveness, removes Dark's Psychic immunity.
+gen4	Mirror Shot	Steel	special	May lower opponent's Accuracy.
+gen4	Mud Bomb	Ground	special	May lower opponent's Accuracy.
+gen4	Nasty Plot	Dark	status	Sharply raises user's Special Attack.
+gen4	Natural Gift	Normal	physical	Power and type depend on the user's held berry.
+gen4	Night Slash	Dark	physical	High critical hit ratio.
+gen4	Ominous Wind	Ghost	special	May raise all user's stats at once.
+gen4	Payback	Dark	physical	Power doubles if the user was attacked first.
+gen4	Pluck	Flying	physical	If the opponent is holding a berry, its effect is stolen by user.
+gen4	Poison Jab	Poison	physical	May poison the opponent.
+gen4	Power Gem	Rock	special	
+gen4	Power Swap	Psychic	status	User and opponent swap Attack and Special Attack.
+gen4	Power Trick	Psychic	status	User's own Attack and Defense switch.
+gen4	Power Whip	Grass	physical	
+gen4	Psycho Cut	Psychic	physical	High critical hit ratio.
+gen4	Psycho Shift	Psychic	status	Transfers user's status condition to the opponent.
+gen4	Punishment	Dark	physical	Power increases when opponent's stats have been raised.
+gen4	Roar of Time	Dragon	special	User must recharge next turn.
+gen4	Rock Climb	Normal	physical	May confuse opponent.
+gen4	Rock Polish	Rock	status	Sharply raises user's Speed.
+gen4	Rock Wrecker	Rock	physical	User must recharge next turn.
+gen4	Roost	Flying	status	User recovers half of its max HP and loses the Flying type temporarily.
+gen4	Seed Bomb	Grass	physical	
+gen4	Seed Flare	Grass	special	May lower opponent's Special Defense.
+gen4	Shadow Claw	Ghost	physical	High critical hit ratio.
+gen4	Shadow Force	Ghost	physical	Disappears on first turn, attacks on second. Can strike through Protect/Detect.
+gen4	Shadow Sneak	Ghost	physical	User attacks first.
+gen4	Spacial Rend	Dragon	special	High critical hit ratio.
+gen4	Stealth Rock	Rock	status	Damages opponents switching into battle.
+gen4	Stone Edge	Rock	physical	High critical hit ratio.
+gen4	Sucker Punch	Dark	physical	User attacks first, but only works if opponent is readying an attack.
+gen4	Switcheroo	Dark	status	Swaps held items with the opponent.
+gen4	Tailwind	Flying	status	Doubles Speed for 4 turns.
+gen4	Thunder Fang	Electric	physical	May cause flinching and/or paralyze opponent.
+gen4	Toxic Spikes	Poison	status	Poisons opponents switching into battle.
+gen4	Trick Room	Psychic	status	Slower Pokémon move first in the turn for 5 turns.
+gen4	Trump Card	Normal	special	The lower the PP, the higher the power.
+gen4	U-turn	Bug	physical	User switches out immediately after attacking.
+gen4	Vacuum Wave	Fighting	special	User attacks first.
+gen4	Wake-Up Slap	Fighting	physical	Power doubles if opponent is asleep, but wakes it up.
+gen4	Wood Hammer	Grass	physical	User receives recoil damage.
+gen4	Worry Seed	Grass	status	Changes the opponent's Ability to Insomnia.
+gen4	Wring Out	Normal	special	The higher the opponent's HP, the higher the damage.
+gen4	X-Scissor	Bug	physical	
+gen4	Zen Headbutt	Psychic	physical	May cause flinching.
+gen8	Apple Acid	Grass	special	Lowers target's Special Defense.
+gen8	Astral Barrage	Ghost	special	The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.
+gen8	Aura Wheel	Electric	physical	Changes type based on Morpeko's Mode.
+gen8	Barb Barrage	Poison	physical	May poison opponent; inflicts double damage if the target is already poisoned.
+gen8	Behemoth Bash	Steel	physical	Damage doubles if target is Dynamaxed.
+gen8	Behemoth Blade	Steel	physical	Damage doubles if target is Dynamaxed.
+gen8	Bitter Malice	Ghost	special	Lowers opponent's Attack.
+gen8	Bleakwind Storm	Flying	special	May lower opponent's Speed.
+gen8	Body Press	Fighting	physical	The higher the user's Defense, the stronger the attack.
+gen8	Bolt Beak	Electric	physical	If the user attacks before the target, the power of this move is doubled.
+gen8	Branch Poke	Grass	physical	
+gen8	Breaking Swipe	Dragon	physical	Hits multiple opponents and lowers their attack.
+gen8	Burning Jealousy	Fire	special	Hits all opponents, and burns any that have had their stats boosted.
+gen8	Ceaseless Edge	Dark	physical	Sets up Spikes.
+gen8	Chloroblast	Grass	special	User receives recoil damage.
+gen8	Clangorous Soul	Dragon	status	Raises all user's stats but loses HP.
+gen8	Coaching	Fighting	status	Boosts Attack and Defense of a teammate.
+gen8	Corrosive Gas	Poison	status	Removes opponent's items.
+gen8	Court Change	Normal	status	Swaps the effects on either side of the field.
+gen8	Decorate	Fairy	status	Sharply raises target's Attack and Special Attack.
+gen8	Dire Claw	Poison	physical	May poison, paralyze or put the opponent to sleep.
+gen8	Dragon Darts	Dragon	physical	User attacks twice.
+gen8	Dragon Energy	Dragon	special	The higher the user's HP, the higher the power.
+gen8	Drum Beating	Grass	physical	Lowers opponent's Speed.
+gen8	Dual Wingbeat	Flying	physical	The user slams the target with its wings. The target is hit twice in a row.
+gen8	Dynamax Cannon	Dragon	special	Damage doubles if opponent is Dynamaxed.
+gen8	Eerie Spell	Psychic	special	Deals damage and reduces opponent's PP.
+gen8	Esper Wing	Psychic	special	High critical hit ratio. Raises user's Speed.
+gen8	Eternabeam	Dragon	special	User can't move on the next turn.
+gen8	Expanding Force	Psychic	special	Increases power and hits all opponents on Psychic Terrain.
+gen8	False Surrender	Dark	physical	Ignores Accuracy and Evasiveness.
+gen8	Fiery Wrath	Dark	special	May cause flinching.
+gen8	Fishious Rend	Water	physical	If the user attacks before the target, the power of this move is doubled.
+gen8	Flip Turn	Water	physical	After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+gen8	Freezing Glare	Psychic	special	May freeze opponent.
+gen8	G-Max Befuddle	Bug		Butterfree-exclusive G-Max Move. Poisons, paralyzes, or puts opponent to sleep.
+gen8	G-Max Cannonade	Water		Blastoise-exclusive G-Max Move. Damages non-Water types for 4 turns.
+gen8	G-Max Centiferno	Fire		Centiskorch-exclusive G-Max Move. Traps opponents for 4-5 turns.
+gen8	G-Max Chi Strike	Fighting		Machamp-exclusive G-Max Move. Increases critical hit ratio.
+gen8	G-Max Cuddle	Normal		Eevee-exclusive G-Max Move. Infatuates opponents.
+gen8	G-Max Depletion	Dragon		Duraludon-exclusive G-Max Move. Reduces opponent's PP.
+gen8	G-Max Drum Solo	Grass		Rillaboom-exclusive G-Max Move. Ignores target's ability.
+gen8	G-Max Finale	Fairy		Alcremie-exclusive G-Max Move. Heals the user's team.
+gen8	G-Max Fireball	Fire		Cinderace-exclusive G-Max Move. Ignores target's ability.
+gen8	G-Max Foam Burst	Water		Kingler-exclusive G-Max Move. Harshly lowers opponents' Speed.
+gen8	G-Max Gold Rush	Normal		Meowth-exclusive G-Max Move. Confuses opponents and earns more money.
+gen8	G-Max Gravitas	Psychic		Orbeetle-exclusive G-Max Move. Summons Gravity for 5 turns.
+gen8	G-Max Hydrosnipe	Water		Inteleon-exclusive G-Max Move. Ignores target's ability.
+gen8	G-Max Malodor	Poison		Garbodor-exclusive G-Max Move. Poisons opponents.
+gen8	G-Max Meltdown	Steel		Melmetal-exclusive G-Max Move. Prevents opponents using the same move twice in a row.
+gen8	G-Max One Blow	Dark		Urshifu Single-Strike Style-exclusive G-Max Move. Strikes through Max Guard and Protect.
+gen8	G-Max Rapid Flow	Water		Urshifu Rapid-Strike Style-exclusive G-Max Move. Strikes through Max Guard and Protect.
+gen8	G-Max Replenish	Normal		Snorlax-exclusive G-Max Move. Recycles Berries.
+gen8	G-Max Resonance	Ice		Lapras-exclusive G-Max Move. Reduces damage for 5 turns.
+gen8	G-Max Sandblast	Ground		Sandaconda-exclusive G-Max Move. Traps opponents for 4-5 turns.
+gen8	G-Max Smite	Fairy		Hatterene-exclusive G-Max Move. Confuses opponents.
+gen8	G-Max Snooze	Dark		Grimmsnarl-exclusive G-Max Move. Makes opponents drowsy.
+gen8	G-Max Steelsurge	Steel		Copperajah-exclusive G-Max Move. Sets up Spikes on the field.
+gen8	G-Max Stonesurge	Water		Drednaw-exclusive G-Max Move. Sets up Stealth Rock.
+gen8	G-Max Stun Shock	Electric		Toxtricity-exclusive G-Max Move. Poisons or paralyzes opponents.
+gen8	G-Max Sweetness	Grass		Appletun-exclusive G-Max Move. Heals status conditions of user's team.
+gen8	G-Max Tartness	Grass		Flapple-exclusive G-Max Move. Reduces opponents' evasiveness.
+gen8	G-Max Terror	Ghost		Gengar-exclusive G-Max Move. Prevents opponent from switching out.
+gen8	G-Max Vine Lash	Grass		Venusaur-exclusive G-Max Move. Damages non-Grass types for 4 turns.
+gen8	G-Max Volcalith	Rock		Coalossal-exclusive G-Max Move. Deals damage for 4 turns.
+gen8	G-Max Volt Crash	Electric		Pikachu-exclusive G-Max Move. Paralyzes opponents.
+gen8	G-Max Wildfire	Fire		Charizard-exclusive G-Max Move. Damages non-Fire types for 4 turns.
+gen8	G-Max Wind Rage	Flying		Corviknight-exclusive G-Max Move. Removes battlefield hazards.
+gen8	Glacial Lance	Ice	physical	The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.
+gen8	Grassy Glide	Grass	physical	High priority during Grassy Terrain.
+gen8	Grav Apple	Grass	physical	Lowers the opponent's Defense stat.
+gen8	Headlong Rush	Ground	physical	Lowers user's Defense.
+gen8	Infernal Parade	Ghost	special	Inflicts double damage if the target has a status condition.
+gen8	Jaw Lock	Dark	physical	Prevents user and opponent from switching out.
+gen8	Jungle Healing	Grass	status	Restores team's HP and cures status conditions.
+gen8	Lash Out	Dark	physical	Double power if stats were lowered during the turn.
+gen8	Life Dew	Water	status	User and teammates recover HP.
+gen8	Lunar Blessing	Psychic	status	Heals user's status conditions and recovers HP.
+gen8	Magic Powder	Psychic	status	Changes target's type to Psychic.
+gen8	Max Airstream	Flying		Flying type Dynamax move. Raises the team's Speed.
+gen8	Max Darkness	Dark		Dark type Dynamax move. Lowers the target's Special Defense.
+gen8	Max Flare	Fire		Fire type Dynamax move. Summons harsh sunlight.
+gen8	Max Flutterby	Bug		Bug type Dynamax move. Lowers the target's Special Attack.
+gen8	Max Geyser	Water		Water type Dynamax move. Summons heavy rain.
+gen8	Max Guard	Normal		Status category Dynamax move. Protects the user.
+gen8	Max Hailstorm	Ice		Ice type Dynamax move. Summons hail.
+gen8	Max Knuckle	Fighting		Fighting type Dynamax move. Increases the team's Attack.
+gen8	Max Lightning	Electric		Electric type Dynamax move. Summons Electric Terrain.
+gen8	Max Mindstorm	Psychic		Psychic type Dynamax move. Summons Psychic Terrain.
+gen8	Max Ooze	Poison		Poison type Dynamax move. Increases the team's Special Attack.
+gen8	Max Overgrowth	Grass		Grass type Dynamax move. Summons Grassy Terrain.
+gen8	Max Phantasm	Ghost		Ghost type Dynamax move. Lowers the target's Defense.
+gen8	Max Quake	Ground		Ground type Dynamax move. Increases the team's Special Defense.
+gen8	Max Rockfall	Rock		Rock type Dynamax move. Summons a sandstorm.
+gen8	Max Starfall	Fairy		Fairy type Dynamax move. Summons Misty Terrain.
+gen8	Max Steelspike	Steel		Steel type Dynamax move. Raises the team's Defense.
+gen8	Max Strike	Normal		Normal type Dynamax move. Lowers the target's Speed.
+gen8	Max Wyrmwind	Dragon		Dragon type Dynamax move. Lowers the target's Attack.
+gen8	Meteor Assault	Fighting	physical	User must recharge next turn.
+gen8	Meteor Beam	Rock	special	User gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn.
+gen8	Misty Explosion	Fairy	special	Power increases on Misty Terrain.
+gen8	Mountain Gale	Ice	physical	Lowers user's Speed.
+gen8	Mystical Power	Psychic	special	Raises user's Special Attack.
+gen8	No Retreat	Fighting	status	Raises all stats but user cannot switch out.
+gen8	Obstruct	Dark	status	Protects the user and sharply lowers Defence on contact.
+gen8	Octolock	Fighting	status	Lowers opponent's Defense and Special Defense every turn, and they cannot flee or switch out.
+gen8	Overdrive	Electric	special	Hits all adjacent opponents.
+gen8	Poltergeist	Ghost	physical	Fails if the target doesn’t have an item.
+gen8	Power Shift	Normal	status	Switches Attack and Defense stats.
+gen8	Psyshield Bash	Psychic	physical	Raises user's Defense and Special Defense.
+gen8	Pyro Ball	Fire	physical	May burn opponent.
+gen8	Raging Fury	Fire	physical	User attacks for 2-3 turns but then becomes confused.
+gen8	Rising Voltage	Electric	special	Power doubles on Electric Terrain.
+gen8	Sandsear Storm	Ground	special	May burn target.
+gen8	Scale Shot	Dragon	physical	Hits 2-5 times in one turn. Boosts user's Speed but lowers its Defense.
+gen8	Scorching Sands	Ground	special	May burn the target.
+gen8	Shell Side Arm	Poison	special	May poison opponent. Inflicts either Special or Physical damage, whichever is better.
+gen8	Shelter	Steel	status	Raises user's Defense.
+gen8	Skitter Smack	Bug	physical	Lowers opponent's Sp. Attack.
+gen8	Snap Trap	Grass	physical	Traps opponent, damaging them for 4-5 turns.
+gen8	Snipe Shot	Water	special	Ignores moves and abilities that draw in moves. High critical hit ratio.
+gen8	Spirit Break	Fairy	physical	Lowers opponent's Special Attack.
+gen8	Springtide Storm	Fairy	special	Boosts user's stats in Incarnate Forme, or lowers opponent's stats in Therian Forme.
+gen8	Steel Beam	Steel	special	User loses 50% of its HP.
+gen8	Steel Roller	Steel	physical	Fails if no Terrain in effect.
+gen8	Stone Axe	Rock	physical	Sets up Stealth Rock.
+gen8	Strange Steam	Fairy	special	May confuse opponent.
+gen8	Stuff Cheeks	Normal	status	The user eats its held Berry, then sharply raises its Defense stat.
+gen8	Surging Strikes	Water	physical	Always results in a critical hit and ignores stat changes.
+gen8	Take Heart	Psychic	status	Heals user's status conditions and raises its stats.
+gen8	Tar Shot	Rock	status	Lowers the opponent's Speed and makes them weaker to Fire-type moves.
+gen8	Teatime	Normal	status	Forces all Pokémon on the field to eat their berries.
+gen8	Terrain Pulse	Normal	special	Type and power change depending on the Terrain in effect.
+gen8	Thunder Cage	Electric	special	Deals damage and traps opponent, damaging them for 4-5 turns.
+gen8	Thunderous Kick	Fighting	physical	Lowers opponent's Defense.
+gen8	Triple Arrows	Fighting	physical	High critical hit ratio. May lower opponent's Defense or cause them to flinch.
+gen8	Triple Axel	Ice	physical	Attacks thrice with more power each time.
+gen8	Victory Dance	Fighting	status	Raises Attack and Defense.
+gen8	Wave Crash	Water	physical	User receives recoil damage.
+gen8	Wicked Blow	Dark	physical	Always results in a critical hit and ignores stat changes.
+gen8	Wildbolt Storm	Electric	special	May paralyze target.
+gen9	Alluring Voice	Fairy	special	
+gen9	Aqua Cutter	Water	physical	High critical hit ratio.
+gen9	Aqua Step	Water	physical	Raises user's Speed.
+gen9	Armor Cannon	Fire	special	Lowers user's Defense and Special Defense.
+gen9	Axe Kick	Fighting	physical	May confuse opponent. If it misses, the user loses HP.
+gen9	Bitter Blade	Fire	physical	User recovers half the HP inflicted on opponent.
+gen9	Blazing Torque	Fire	physical	May burn the opponent.
+gen9	Blood Moon	Normal	special	Cannot be used twice in a row.
+gen9	Burning Bulwark	Fire	status	
+gen9	Chilling Water	Water	special	Lowers opponent's Attack.
+gen9	Chilly Reception	Ice	status	Switches out and summons a snowstorm lasting 5 turns.
+gen9	Collision Course	Fighting	physical	Boosted even more if it's super-effective.
+gen9	Combat Torque	Fighting	physical	May paralyze the opponent.
+gen9	Comeuppance	Dark	physical	Deals more damage to the opponent that last inflicted damage on it.
+gen9	Doodle	Normal	status	Changes the abilities of the user and its teammates to that of the target.
+gen9	Double Shock	Electric	physical	After using this move, the user will no longer be Electric type.
+gen9	Dragon Cheer	Dragon	status	
+gen9	Electro Drift	Electric	special	Boosted even more if it's super-effective.
+gen9	Electro Shot	Electric	special	Charges on first turn, attacks on second.
+gen9	Fickle Beam	Dragon	special	May deal double damage.
+gen9	Fillet Away	Normal	status	Lowers HP but sharply boosts Attack, Special Attack, and Speed.
+gen9	Flower Trick	Grass	physical	Never misses; always results in a critical hit.
+gen9	Gigaton Hammer	Steel	physical	Cannot be used twice in a row.
+gen9	Glaive Rush	Dragon	physical	Attacks from opposing Pokémon during the next turn cannot miss and will inflict double damage.
+gen9	Hard Press	Steel	physical	
+gen9	Hydro Steam	Water	special	Power increases in harsh sunlight.
+gen9	Hyper Drill	Normal	physical	Can strike through Protect/Detect.
+gen9	Ice Spinner	Ice	physical	Removes effects of Terrain.
+gen9	Ivy Cudgel	Grass	physical	High critical hit ratio. Type changes based on form.
+gen9	Jet Punch	Water	physical	Always goes first.
+gen9	Kowtow Cleave	Dark	physical	Always hits.
+gen9	Last Respects	Ghost	physical	Damages increases the more party Pokémon have been defeated.
+gen9	Lumina Crash	Psychic	special	Harshly lowers target’s Special Defense.
+gen9	Magical Torque	Fairy	physical	May confuse the opponent.
+gen9	Make It Rain	Steel	special	Lowers user's Special Attack. Money is earned after the battle.
+gen9	Malignant Chain	Poison	special	May poison the opponent.
+gen9	Matcha Gotcha	Grass	special	Deals damage, restores HP, may burn opponent.
+gen9	Mighty Cleave	Rock	physical	
+gen9	Mortal Spin	Poison	physical	Removes entry hazards and trap move effects, and poisons opposing Pokémon.
+gen9	Noxious Torque	Poison	physical	May poison the opponent.
+gen9	Order Up	Dragon	physical	Boosts Attack/Defense/Speed depending on ally Tatsugiri.
+gen9	Population Bomb	Normal	physical	Hits 1-10 times in a row.
+gen9	Pounce	Bug	physical	Lowers opponent's Speed.
+gen9	Psyblade	Psychic	physical	Power increases on Electric Terrain.
+gen9	Psychic Noise	Psychic	special	Deals damage and prevents target from healing.
+gen9	Rage Fist	Ghost	physical	The more times the user has been hit by attacks, the greater the move's power.
+gen9	Raging Bull	Normal	physical	Type depends on the user’s form. Breaks through Reflect and Light Screen barriers.
+gen9	Revival Blessing	Normal	status	Revives a fainted party Pokémon to half HP.
+gen9	Ruination	Dark	special	Halves the opponent's HP.
+gen9	Salt Cure	Rock	physical	Deals damage each turn; Steel and Water types are more affected.
+gen9	Shed Tail	Normal	status	Creates a substitute, then swaps places with a party Pokémon in waiting.
+gen9	Silk Trap	Bug	status	Protects the user and lowers opponent's Speed on contact.
+gen9	Snowscape	Ice	status	Raises Defense of Ice types for 5 turns.
+gen9	Spicy Extract	Grass	status	Harshly lowers the opponent's Defense and sharply raises their Attack.
+gen9	Spin Out	Steel	physical	Harshly lowers user’s Speed.
+gen9	Supercell Slam	Electric	physical	
+gen9	Syrup Bomb	Grass	special	Lowers opponent's Speed each turn for 3 turns.
+gen9	Tachyon Cutter	Steel	special	Guaranteed to hit twice in a row.
+gen9	Temper Flare	Fire	physical	
+gen9	Tera Blast	Normal	special	Changes type when the user has Terastallized.
+gen9	Tera Starstorm	Normal	special	
+gen9	Thunderclap	Electric	special	Strikes before a target's move.
+gen9	Tidy Up	Normal	status	Removes the effects of entry hazards and Substitute, and boosts user’s Attack and Speed.
+gen9	Torch Song	Fire	special	Raises user's Special Attack.
+gen9	Trailblaze	Grass	physical	Raises user's Speed.
+gen9	Triple Dive	Water	physical	Hits 3 times in a row.
+gen9	Twin Beam	Psychic	special	Hits twice in one turn.
+gen9	Upper Hand	Fighting	physical	Strikes before a target's priority move.
+gen9	Wicked Torque	Dark	physical	May put opponent to sleep.
+gen5	Acid Spray	Poison	special	Sharply lowers opponent's Special Defense.
+gen5	Acrobatics	Flying	physical	Stronger when the user does not have a held item.
+gen5	After You	Normal	status	Gives target priority in the next turn.
+gen5	Ally Switch	Psychic	status	User switches with opposite teammate.
+gen5	Autotomize	Steel	status	Reduces weight and sharply raises Speed.
+gen5	Bestow	Normal	status	Gives the user's held item to the target.
+gen5	Blue Flare	Fire	special	May burn opponent.
+gen5	Bolt Strike	Electric	physical	May paralyze opponent.
+gen5	Bulldoze	Ground	physical	Lowers opponent's Speed.
+gen5	Chip Away	Normal	physical	Ignores opponent's stat changes.
+gen5	Circle Throw	Fighting	physical	In battles, the opponent switches. In the wild, the Pokémon runs.
+gen5	Clear Smog	Poison	special	Removes all of the target's stat changes.
+gen5	Coil	Poison	status	Raises user's Attack, Defense and Accuracy.
+gen5	Cotton Guard	Grass	status	Drastically raises user's Defense.
+gen5	Dragon Tail	Dragon	physical	In battles, the opponent switches. In the wild, the Pokémon runs.
+gen5	Drill Run	Ground	physical	High critical hit ratio.
+gen5	Dual Chop	Dragon	physical	Hits twice in one turn.
+gen5	Echoed Voice	Normal	special	Power increases each turn.
+gen5	Electro Ball	Electric	special	The faster the user, the stronger the attack.
+gen5	Electroweb	Electric	special	Lowers opponent's Speed.
+gen5	Entrainment	Normal	status	Makes target's ability same as user's.
+gen5	Fiery Dance	Fire	special	May raise user's Special Attack.
+gen5	Final Gambit	Fighting	special	Inflicts damage equal to the user's remaining HP. User faints.
+gen5	Fire Pledge	Fire	special	Added effects appear if combined with Grass Pledge or Water Pledge.
+gen5	Flame Burst	Fire	special	May also injure nearby Pokémon.
+gen5	Flame Charge	Fire	physical	Raises user's Speed.
+gen5	Foul Play	Dark	physical	Uses the opponent's Attack stat.
+gen5	Freeze Shock	Ice	physical	Charges on first turn, attacks on second. May paralyze opponent.
+gen5	Frost Breath	Ice	special	Always results in a critical hit.
+gen5	Fusion Bolt	Electric	physical	Power increases if Fusion Flare is used in the same turn.
+gen5	Fusion Flare	Fire	special	Power increases if Fusion Bolt is used in the same turn.
+gen5	Gear Grind	Steel	physical	Hits twice in one turn.
+gen5	Glaciate	Ice	special	Lowers opponent's Speed.
+gen5	Grass Pledge	Grass	special	Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.
+gen5	Guard Split	Psychic	status	Averages Defense and Special Defense with the target.
+gen5	Head Charge	Normal	physical	User receives recoil damage.
+gen5	Heal Pulse	Psychic	status	Restores half the target's max HP.
+gen5	Heart Stamp	Psychic	physical	May cause flinching.
+gen5	Heat Crash	Fire	physical	The heavier the user, the stronger the attack.
+gen5	Heavy Slam	Steel	physical	The heavier the user, the stronger the attack.
+gen5	Hex	Ghost	special	Inflicts more damage if the target has a status condition.
+gen5	Hone Claws	Dark	status	Raises user's Attack and Accuracy.
+gen5	Horn Leech	Grass	physical	User recovers half the HP inflicted on opponent.
+gen5	Hurricane	Flying	special	May confuse opponent.
+gen5	Ice Burn	Ice	special	Charges on first turn, attacks on second. May burn opponent.
+gen5	Icicle Crash	Ice	physical	May cause flinching.
+gen5	Incinerate	Fire	special	Destroys the target's held berry.
+gen5	Inferno	Fire	special	Burns opponent.
+gen5	Leaf Tornado	Grass	special	May lower opponent's Accuracy.
+gen5	Low Sweep	Fighting	physical	Lowers opponent's Speed.
+gen5	Magic Room	Psychic	status	Suppresses the effects of held items for five turns.
+gen5	Night Daze	Dark	special	May lower opponent's Accuracy.
+gen5	Power Split	Psychic	status	Averages Attack and Special Attack with the target.
+gen5	Psyshock	Psychic	special	Inflicts damage based on the target's Defense, not Special Defense.
+gen5	Psystrike	Psychic	special	Inflicts damage based on the target's Defense, not Special Defense.
+gen5	Quash	Dark	status	Makes the target act last this turn.
+gen5	Quick Guard	Fighting	status	Protects the user's team from high-priority moves.
+gen5	Quiver Dance	Bug	status	Raises user's Special Attack, Special Defense and Speed.
+gen5	Rage Powder	Bug	status	Forces attacks to hit user, not team-mates.
+gen5	Razor Shell	Water	physical	May lower opponent's Defense.
+gen5	Reflect Type	Normal	status	User becomes the target's type.
+gen5	Relic Song	Normal	special	May put the target to sleep.
+gen5	Retaliate	Normal	physical	Inflicts double damage if a teammate fainted on the last turn.
+gen5	Round	Normal	special	Power increases if teammates use it in the same turn.
+gen5	Sacred Sword	Fighting	physical	Ignores opponent's stat changes.
+gen5	Scald	Water	special	May burn opponent.
+gen5	Searing Shot	Fire	special	May burn opponent.
+gen5	Secret Sword	Fighting	special	Inflicts damage based on the target's Defense, not Special Defense.
+gen5	Shell Smash	Normal	status	Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense.
+gen5	Shift Gear	Steel	status	Raises user's Attack and sharply raises Speed.
+gen5	Simple Beam	Normal	status	Changes target's ability to Simple.
+gen5	Sky Drop	Flying	physical	Takes opponent into the air on first turn, drops them on second turn.
+gen5	Sludge Wave	Poison	special	May poison opponent.
+gen5	Smack Down	Rock	physical	Makes Flying-type Pokémon vulnerable to Ground moves.
+gen5	Snarl	Dark	special	Lowers opponent's Special Attack.
+gen5	Soak	Water	status	Changes the target's type to water.
+gen5	Steamroller	Bug	physical	May cause flinching.
+gen5	Stored Power	Psychic	special	Power increases when user's stats have been raised.
+gen5	Storm Throw	Fighting	physical	Always results in a critical hit.
+gen5	Struggle Bug	Bug	special	Lowers opponent's Special Attack.
+gen5	Synchronoise	Psychic	special	Hits any Pokémon that shares a type with the user.
+gen5	Tail Slap	Normal	physical	Hits 2-5 times in one turn.
+gen5	Techno Blast	Normal	special	Type depends on the Drive being held.
+gen5	Telekinesis	Psychic	status	Ignores opponent's Evasiveness for three turns, add Ground immunity.
+gen5	V-create	Fire	physical	Lowers user's Defense, Special Defense and Speed.
+gen5	Venoshock	Poison	special	Inflicts double damage if the target is poisoned.
+gen5	Volt Switch	Electric	special	User must switch out after attacking.
+gen5	Water Pledge	Water	special	Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.
+gen5	Wide Guard	Rock	status	Protects the user's team from multi-target attacks.
+gen5	Wild Charge	Electric	physical	User receives recoil damage.
+gen5	Wonder Room	Psychic	status	Swaps every Pokémon's Defense and Special Defense for 5 turns.
+gen5	Work Up	Normal	status	Raises user's Attack and Special Attack.
