@@ -1,0 +1,270 @@
+Raises Special Defense of an ally.
+Always goes first. Lowers the target's attack.
+The Pokémon congratulates you on your special day. No battle effect.
+Lowers opponent's Special Attack.
+Protects the Pokémon from status moves.
+Sharply lowers opponent's Special Attack.
+Prevents all Pokémon from falling asleep for 5 turns.
+Changes the target's move to Electric type.
+Prevents fleeing in the next turn.
+Sharply raises Defense of all Grass-type Pokémon on the field.
+Adds Grass type to opponent.
+Charges on first turn, sharply raises user's Sp. Attack, Sp. Defense and Speed on the second.
+Restores a little HP of all Pokémon for 5 turns.
+Doubles prize money from trainer battles.
+Makes the user and an ally very happy.
+Changes Normal-type moves to Electric-type.
+Protects the user and lowers opponent's Attack on contact.
+Raises Defense and Sp. Defense of Plus/Minus Pokémon.
+Protects teammates from damaging moves.
+Protects the field from status conditions for 5 turns.
+Lowers opponent's Attack and Special Attack.
+Lowers opponent's Attack and Special Attack then switches out.
+Lowers opponent's Attack. Always hits.
+Damages Pokémon using Fire type moves.
+Raises Attack and Special Attack of Grass-types.
+Protects the user and inflicts damage on contact.
+Lowers opponent's Speed when switching into battle.
+Reverses stat changes of opponent.
+Adds Ghost type to opponent.
+Lowers poisoned opponent's Special Attack and Speed.
+Halves damage from Physical and Special attacks for five turns.
+Protects the user and poisons opponent on contact.
+Eevee-exclusive Z-Move. Sharply raises all stats.
+The user restores the target's HP by up to half of its max HP. It restores more HP when the terrain is grass.
+The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability.
+Allows an ally to use a move instead.
+User's next attack is guaranteed to result in a critical hit.
+Prevents priority moves from being used for 5 turns.
+The user heals the target's status condition. If the move succeeds, it also restores the user's own HP.
+The user regains up to half of its max HP. It restores more HP in a sandstorm.
+The user exchanges Speed stats with the target.
+The user shines a spotlight on the target so that only the target will be attacked during the turn.
+The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat.
+The user gets teary eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats.
+Poisons opponent and lowers its Speed.
+Sharply raises user's Defense.
+Sharply raises user's Speed.
+Sharply raises user's Special Defense.
+Sharply raises user's Defense.
+Confuses opponent.
+Changes user's type to that of its first move.
+Raises user's Defense.
+Opponent can't use its last attack for a few turns.
+Raises user's Evasiveness.
+Lowers opponent's Accuracy.
+Increases critical hit ratio.
+Paralyzes opponent.
+Lowers opponent's Attack.
+Raises user's Attack and Special Attack.
+Raises user's Defense.
+Resets all stat changes.
+Puts opponent to sleep.
+Lowers opponent's Accuracy.
+Drains HP from opponent each turn.
+Lowers opponent's Defense.
+Halves damage from Special attacks for 5 turns.
+Puts opponent to sleep.
+Raises user's Attack.
+User performs almost any move in the game at random.
+Copies the opponent's last move.
+Sharply raises user's Evasiveness.
+User performs the opponent's last move.
+User's stats cannot be changed for a period of time.
+Poisons opponent.
+Poisons opponent.
+User recovers half its max HP.
+Halves damage from Physical attacks for 5 turns.
+User sleeps for 2 turns, but user is fully healed.
+In battles, the opponent switches. In the wild, the Pokémon runs.
+Lowers opponent's Accuracy.
+Sharply lowers opponent's Defense.
+Raises user's Attack.
+Puts opponent to sleep.
+Puts opponent to sleep.
+Lowers opponent's Accuracy.
+User recovers half its max HP.
+Doesn't do ANYTHING.
+Puts opponent to sleep.
+Sharply lowers opponent's Speed.
+Paralyzes opponent.
+Uses HP to creates a decoy that takes hits.
+Confuses opponent.
+Sharply raises user's Attack.
+Lowers opponent's Defense.
+Allows user to flee wild battles; also warps player to last PokéCenter.
+Paralyzes opponent.
+Badly poisons opponent.
+User takes on the form and attacks of the opponent.
+In battles, the opponent switches. In the wild, the Pokémon runs.
+Raises user's Defense.
+If opponent is the opposite gender, it's less likely to attack.
+User switches out and gives stat changes to the incoming Pokémon.
+User loses 50% of its max HP, but Attack raises to maximum.
+Sharply lowers opponent's Attack.
+User changes type to become resistant to opponent's last move.
+Sharply lowers opponent's Speed.
+Ghosts lose 50% of max HP and curse the opponent; Non-Ghosts raise Attack, Defense and lower Speed.
+If the user faints, the opponent also faints.
+Protects the user, but may fail if used consecutively.
+Forces opponent to keep using its last move for 3 turns.
+Always left with at least 1 HP, but may fail if used consecutively.
+Resets opponent's Evasiveness, and allows Normal- and Fighting-type attacks to hit Ghosts.
+Heals the user's party's status conditions.
+User's next attack is guaranteed to hit.
+Opponent cannot flee or switch.
+User recovers half its max HP.
+User's next attack is guaranteed to hit.
+User recovers HP. Amount varies with the weather.
+User recovers HP. Amount varies with the weather.
+The sleeping opponent loses 25% of its max HP each turn.
+The user's and opponent's HP becomes the average of both.
+Any Pokémon in play when this attack is used faints in 3 turns.
+Protects the user, but may fail if used consecutively.
+Copies the opponent's stat changes.
+Makes it rain for 5 turns.
+The user's party is protected from status conditions.
+Creates a sandstorm for 5 turns.
+Sharply lowers opponent's Speed.
+Permanently copies the opponent's last move.
+User performs one of its own moves while sleeping.
+Opponent cannot escape/switch.
+Damages opponents switching into battle.
+The opponent's last move loses 2-5 PP.
+Makes it sunny for 5 turns.
+Confuses opponent, but sharply raises its Attack.
+Confuses opponent.
+Lowers opponent's Evasiveness.
+User recovers HP. Amount varies with the weather.
+Cures all status problems in your party.
+User performs a move known by its allies at random.
+Opponent cannot flee or switch.
+Raises user's Attack and Defense.
+Raises user's Special Attack and Special Defense.
+Changes user's type according to the location.
+Raises user's Special Defense and next Electric move's power increases.
+Raises user's Defense and Special Defense.
+Raises user's Attack and Speed.
+Sharply lowers opponent's Special Defense.
+Sharply lowers opponent's Attack.
+Confuses opponent, but raises its Special Attack.
+In Double Battle, the user takes all the attacks.
+Puts opponent to sleep.
+If the users faints after using this move, the PP for the opponent's last move is depleted.
+Non-Ice types are damaged for 5 turns.
+In Double Battles, boosts the power of the partner's move.
+Raises Attack of allies.
+Opponent is unable to use moves that the user also knows.
+User restores HP each turn. User cannot escape/switch.
+Sharply raises user's Defense.
+Reflects moves that cause status conditions back to the attacker.
+User faints, sharply lowers opponent's Attack and Special Attack.
+Sharply lowers opponent's Special Defense.
+Weakens the power of Electric-type moves.
+Uses a certain move based on the current terrain.
+Resets opponent's Evasiveness, and allows Normal- and Fighting-type attacks to hit Ghosts.
+User's used hold item is restored.
+Cures paralysis, poison, and burns.
+User copies the opponent's Ability.
+The user swaps Abilities with the opponent.
+User recovers half its max HP.
+Steals the effects of the opponent's next move.
+Stores energy for use with Spit Up and Swallow.
+The more times the user has performed Stockpile, the more HP is recovered.
+Drastically raises user's Special Attack.
+Opponent can only use moves that attack.
+Confuses all Pokémon.
+Lowers opponent's Attack and Defense.
+Opponent cannot use the same move in a row.
+Swaps held items with the opponent.
+Weakens the power of Fire-type moves.
+Burns opponent.
+The user recovers HP in the following turn.
+Puts opponent to sleep in the next turn.
+Sharply raises a random stat.
+Restores a little HP each turn.
+Sharply lowers opponent's Special Attack if opposite gender.
+Copies opponent's last move.
+Puts all adjacent opponents to sleep.
+Raises user's Defense and Special Defense.
+Lowers opponent's Evasiveness and clears fog.
+Opponent cannot use items.
+Cancels out the effect of the opponent's Ability.
+Prevents moves like Fly and Bounce and the Ability Levitate for 5 turns.
+User and opponent swap Defense and Special Defense.
+Prevents the opponent from restoring HP for 5 turns.
+User recovers half its max HP.
+The user faints and the next Pokémon released is fully healed.
+Stat changes are swapped with the opponent.
+Opponent cannot land critical hits for 5 turns.
+The user faints but the next Pokémon released is fully healed.
+User becomes immune to Ground-type moves for 5 turns.
+User copies the opponent's attack with 1.5× power.
+Resets opponent's Evasiveness, removes Dark's Psychic immunity.
+Sharply raises user's Special Attack.
+User and opponent swap Attack and Special Attack.
+User's own Attack and Defense switch.
+Transfers user's status condition to the opponent.
+Sharply raises user's Speed.
+User recovers half of its max HP and loses the Flying type temporarily.
+Damages opponents switching into battle.
+Swaps held items with the opponent.
+Doubles Speed for 4 turns.
+Poisons opponents switching into battle.
+Slower Pokémon move first in the turn for 5 turns.
+Changes the opponent's Ability to Insomnia.
+Raises all user's stats but loses HP.
+Boosts Attack and Defense of a teammate.
+Removes opponent's items.
+Swaps the effects on either side of the field.
+Sharply raises target's Attack and Special Attack.
+Restores team's HP and cures status conditions.
+User and teammates recover HP.
+Heals user's status conditions and recovers HP.
+Changes target's type to Psychic.
+Raises all stats but user cannot switch out.
+Protects the user and sharply lowers Defence on contact.
+Lowers opponent's Defense and Special Defense every turn, and they cannot flee or switch out.
+Switches Attack and Defense stats.
+Raises user's Defense.
+The user eats its held Berry, then sharply raises its Defense stat.
+Heals user's status conditions and raises its stats.
+Lowers the opponent's Speed and makes them weaker to Fire-type moves.
+Forces all Pokémon on the field to eat their berries.
+Raises Attack and Defense.
+
+Switches out and summons a snowstorm lasting 5 turns.
+Changes the abilities of the user and its teammates to that of the target.
+
+Lowers HP but sharply boosts Attack, Special Attack, and Speed.
+Revives a fainted party Pokémon to half HP.
+Creates a substitute, then swaps places with a party Pokémon in waiting.
+Protects the user and lowers opponent's Speed on contact.
+Raises Defense of Ice types for 5 turns.
+Harshly lowers the opponent's Defense and sharply raises their Attack.
+Removes the effects of entry hazards and Substitute, and boosts user’s Attack and Speed.
+Gives target priority in the next turn.
+User switches with opposite teammate.
+Reduces weight and sharply raises Speed.
+Gives the user's held item to the target.
+Raises user's Attack, Defense and Accuracy.
+Drastically raises user's Defense.
+Makes target's ability same as user's.
+Averages Defense and Special Defense with the target.
+Restores half the target's max HP.
+Raises user's Attack and Accuracy.
+Suppresses the effects of held items for five turns.
+Averages Attack and Special Attack with the target.
+Makes the target act last this turn.
+Protects the user's team from high-priority moves.
+Raises user's Special Attack, Special Defense and Speed.
+Forces attacks to hit user, not team-mates.
+User becomes the target's type.
+Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense.
+Raises user's Attack and sharply raises Speed.
+Changes target's ability to Simple.
+Changes the target's type to water.
+Ignores opponent's Evasiveness for three turns, add Ground immunity.
+Protects the user's team from multi-target attacks.
+Swaps every Pokémon's Defense and Special Defense for 5 turns.
+Raises user's Attack and Special Attack.
