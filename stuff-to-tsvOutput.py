@@ -18,6 +18,14 @@ for file in os.listdir(collPath):
         with open(filepath, 'r', encoding= 'utf8') as f:
             readFile = f.read()
             spacyRead = nlp(readFile)
-            polar = r"^.*"
-            grizzly = re.findall(polar, readFile)
-            print(grizzly)
+            pattern = re.compile(r'\n.*')
+            matches = pattern.findall(readFile)
+            for match in matches:
+                type.append(moveType)
+                desc.append(match)
+            data = {
+                'Attack Type' : type,
+                'Description' : desc
+            }
+            df = pd.DataFrame(data)
+            df.to_csv("desc_output.tsv", sep="\t", index=False)
