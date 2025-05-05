@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <g transform="translate(0 550) scale(2.5)">
+        <g><desc>baselines</desc> 
+            <line x1="0" y1="-50" x2="200" y2="-50" stroke="light" stroke-width="3"/>
+        </g>
+        <g>
+            <desc>bars</desc>
+            <line x1="10" y1="0" x2="10" y2="-209" stroke="#9FA19F" stroke-width="10"/>
+            <line x1="20" y1="0" x2="20" y2="-49" stroke="#C74433" stroke-width="10"/>
+            <line x1="30" y1="0" x2="30" y2="-57" stroke="#E38931" stroke-width="10"/>
+            <line x1="40" y1="0" x2="40" y2="-53" stroke="#5680E7" stroke-width="10"/>
+            <line x1="50" y1="0" x2="50" y2="-31" stroke="#96B8EB" stroke-width="10"/>
+            <line x1="60" y1="0" x2="60" y2="-62" stroke="#659D3E" stroke-width="10"/>
+            <line x1="70" y1="0" x2="70" y2="-36" stroke="#834BC4" stroke-width="10"/>
+            <line x1="80" y1="0" x2="80" y2="-50" stroke="#E9C241" stroke-width="10"/>
+            <line x1="90" y1="0" x2="90" y2="-31" stroke="#82552B" stroke-width="10"/>
+            <line x1="100" y1="0" x2="100" y2="-79" stroke="#D05578" stroke-width="10"/>
+            <line x1="110" y1="0" x2="110" y2="-26" stroke="#ADA986" stroke-width="10"/>
+            <line x1="120" y1="0" x2="120" y2="-33" stroke="#81CBEF" stroke-width="10"/>
+            <line x1="130" y1="0" x2="130" y2="-34" stroke="#949F38" stroke-width="10"/>
+            <line x1="140" y1="0" x2="140" y2="-31" stroke="#5B63DA" stroke-width="10"/>
+            <line x1="150" y1="0" x2="150" y2="-34" stroke="#66456E" stroke-width="10"/>
+            <line x1="160" y1="0" x2="160" y2="-53" stroke="#5C4E4E" stroke-width="10"/>
+            <line x1="170" y1="0" x2="170" y2="-39" stroke="#789FB5" stroke-width="10"/>
+            <line x1="180" y1="0" x2="180" y2="-34" stroke="#D77DE8" stroke-width="10"/>
+        </g>
+        <g>
+            <desc> X Labels</desc>
+            <text transform="rotate(90)" x="5" y="-5" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Normal</text>
+            <text transform="rotate(90)" x="5" y="-15" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Fire</text>
+            <text transform="rotate(90)" x="5" y="-25" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Fighting</text>
+            <text transform="rotate(90)" x="5" y="-35" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Water</text>
+            <text transform="rotate(90)" x="5" y="-45" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Flying</text>
+            <text transform="rotate(90)" x="5" y="-55" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Grass</text>
+            <text transform="rotate(90)" x="5" y="-65" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Poison</text>
+            <text transform="rotate(90)" x="5" y="-75" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Electric</text>
+            <text transform="rotate(90)" x="5" y="-85" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Ground</text>
+            <text transform="rotate(90)" x="5" y="-95" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Psychic</text>
+            <text transform="rotate(90)" x="5" y="-105" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Rock</text>
+            <text transform="rotate(90)" x="5" y="-115" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Ice</text>
+            <text transform="rotate(90)" x="5" y="-125" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Bug</text>
+            <text transform="rotate(90)" x="5" y="-135" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Dragon</text>
+            <text transform="rotate(90)" x="5" y="-145" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Ghost</text>
+            <text transform="rotate(90)" x="5" y="-155" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Dark</text>
+            <text transform="rotate(90)" x="5" y="-165" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Steel</text>
+            <text transform="rotate(90)" x="5" y="-175" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Fairy</text>
+          
+        </g>
+        <g> <desc>Top Labels</desc>
+            <text transform="rotate(90)" x="-209" y="-5" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">209</text>
+            <text transform="rotate(90)" x="-49" y="-15" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">49</text>
+            <text transform="rotate(90)" x="-57" y="-25" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">57</text>
+            <text transform="rotate(90)" x="-53" y="-35" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">53</text>
+            <text transform="rotate(90)" x="-31" y="-45" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">31</text>
+            <text transform="rotate(90)" x="-62" y="-55" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">62</text>
+            <text transform="rotate(90)" x="-36" y="-65" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">36</text>
+            <text transform="rotate(90)" x="-50" y="-75" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">50</text>
+            <text transform="rotate(90)" x="-31" y="-85" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">31</text>
+            <text transform="rotate(90)" x="-79" y="-95" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">79</text>
+            <text transform="rotate(90)" x="-26" y="-105" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">26</text>
+            <text transform="rotate(90)" x="-33" y="-115" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">33</text>
+            <text transform="rotate(90)" x="-34" y="-125" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">34</text>
+            <text transform="rotate(90)" x="-31" y="-135" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">31</text>
+            <text transform="rotate(90)" x="-34" y="-145" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">34</text>
+            <text transform="rotate(90)" x="-53" y="-155" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">53</text>
+            <text transform="rotate(90)" x="-39" y="-165" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">39</text>
+            <text transform="rotate(90)" x="-34" y="-175" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">34</text>
+        </g>
+        <g>
+            <desc>base lines</desc>
+            <line x1="0" y1="0" x2="200" y2="0" stroke="black" stroke-width="3"/>
+           
+        </g>
+
+    </g>
+    
+
+
+</svg>
