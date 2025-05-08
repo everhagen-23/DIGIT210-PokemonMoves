@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <desc></desc>
+    <g alignment-baseline="baseline"></g>
+    <g transform="translate(0 550) scale(2.5)">
+        <g><desc>baselines</desc> 
+            <line x1="0" y1="-50" x2="200" y2="-50" stroke="light" stroke-width="3"/>
+        </g>
+        <g>
+            <desc>bars</desc>
+            <line x1="10" y1="0" x2="10" y2="-100" stroke="#e74c3c " stroke-width="10"/>
+            <line x1="20" y1="0" x2="20" y2="-100" stroke="#e74c3c " stroke-width="10"/>
+            <line x1="30" y1="0" x2="30" y2="-100" stroke="#7b241c " stroke-width="10"/>
+            <line x1="40" y1="0" x2="40" y2="-100" stroke="#85c1e9 " stroke-width="10"/>
+            <line x1="50" y1="0" x2="50" y2="-100" stroke="#3498db " stroke-width="10"/>
+            <line x1="60" y1="0" x2="60" y2="-200" stroke="#21618c " stroke-width="10"/>
+            <line x1="70" y1="0" x2="70" y2="-100" stroke="#5b2c6f" stroke-width="10"/>
+            <line x1="80" y1="0" x2="80" y2="-100" stroke="#8e44ad  " stroke-width="10"/>
+            <line x1="90" y1="0" x2="90" y2="-100" stroke="#bb8fce " stroke-width="10"/>
+        </g>
+        <g>
+            <desc> X Labels</desc>
+            <text transform="rotate(90)" x="5" y="-5" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Harshly</text>
+            <text transform="rotate(90)" x="5" y="-15" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">ally</text>
+            <text transform="rotate(90)" x="5" y="-25" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">immediately</text>
+            <text transform="rotate(90)" x="5" y="-35" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Harshly</text>
+            <text transform="rotate(90)" x="5" y="-45" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">only</text>
+            <text transform="rotate(90)" x="5" y="-55" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Fly</text>
+            <text transform="rotate(90)" x="5" y="-65" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Harshly</text>
+            <text transform="rotate(90)" x="5" y="-75" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">temporarily</text>
+            <text transform="rotate(90)" x="5" y="-85" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">Fly</text>
+        </g>
+        <g> <desc>Top Labels</desc>
+            <text transform="rotate(90)" x="-100" y="-5" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">1</text>
+            <text transform="rotate(90)" x="-100" y="-15" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">1</text>
+            <text transform="rotate(90)" x="-100" y="-25" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">1</text>
+            <text transform="rotate(90)" x="-100" y="-35" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">1</text>
+            <text transform="rotate(90)" x="-100" y="-45" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">1</text>
+            <text transform="rotate(90)" x="-200" y="-55" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">2</text>
+            <text transform="rotate(90)" x="-100" y="-65" fill="white"
+                style="font-size:7px; font-family:Trebuchet MS;">1</text>
+            <text transform="rotate(90)" x="-100" y="-75" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">1</text>
+            <text transform="rotate(90)" x="-100" y="-85" fill="black"
+                style="font-size:7px; font-family:Trebuchet MS;">1</text>
+        </g>
+        <g>
+            <desc>base lines</desc>
+            <line x1="0" y1="0" x2="100" y2="0" stroke="black" stroke-width="3"/>
+            
+        </g>
+        
+    </g>
+</svg>
